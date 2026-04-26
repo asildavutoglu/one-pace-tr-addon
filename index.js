@@ -70,10 +70,10 @@ app.get("/subtitles/:type/:id.json", (req, res) => {
 app.use("/subs", express.static(path.join(__dirname, "subs"), {
   setHeaders: (res, filePath) => {
     if (filePath.endsWith(".ass")) {
-      res.setHeader("Content-Type", "text/x-ssa");
+      res.setHeader("Content-Type", "text/x-ssa; charset=utf-8");
     }
     if (filePath.endsWith(".srt")) {
-      res.setHeader("Content-Type", "text/plain");
+      res.setHeader("Content-Type", "text/plain; charset=utf-8");
     }
   }
 }));

@@ -67,7 +67,16 @@ app.get("/subtitles/:type/:id.json", (req, res) => {
   res.json({ subtitles });
 });
 
-app.use("/subs", express.static(path.join(__dirname, "subs")));
+app.use("/subs", express.static(path.join(__dirname, "subs"), {
+  setHeaders: (res, filePath) => {
+    if (filePath.endsWith(".ass")) {
+      res.setHeader("Content-Type", "text/x-ssa");
+    }
+    if (filePath.endsWith(".srt")) {
+      res.setHeader("Content-Type", "text/plain");
+    }
+  }
+}));
 
 const PORT = process.env.PORT || 7000;
 app.listen(PORT, () => {

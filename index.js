@@ -18,6 +18,7 @@ const manifest = {
   logo: "https://onepace.net/images/one-pace-logo.svg",
   resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
+  idPrefixes: ["RO_","OR_","SY_","GA_","BA_","AR_","LO_","AL_","RE_","WH_","KO_","LG_","DR_","DI_","LI_","JA_","SK_","SA_","AM_","IM_","MA_","PW_","FI_","ZO_","WC_","REV_","WA_","TB_","SAB_","RTS_","PH_","EN_","PEN_","WS_","LR_","COVER_KOBYMEPPO_","COVER_SHSS_","EH_"],
   catalogs: [],
 };
 

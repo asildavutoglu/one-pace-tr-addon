@@ -1,0 +1,440 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+LayoutResX: 1440
+LayoutResY: 1080
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main-207-,Impress BT,80,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Narrator-207-,Impress BT,75,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,180,180,27,1
+Style: Flashbacks-207-,Impress BT,80,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.2,3.8,2,180,180,27,1
+Style: FlashbackThoughts-207-,Impress BT,80,&H00FFFFFF,&H00FFFFFF,&H00878787,&H78000000,0,-1,0,0,100,100,0,0,1,4.2,3.8,2,180,180,27,1
+Style: Secondary-207-,Impress BT,80,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Thoughts-207-,Impress BT,80,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,4.2,3.8,2,300,300,27,1
+Style: Note-207-,Impress BT,57,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,3,3,8,180,180,27,1
+Style: Credits-207-,FOT-Greco Std DB Strp,43,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,95,100,1.6,0,1,4.0,0,7,16,16,16,1
+Style: Title-207-,Gilroy-Bold,100,&H00FEFEFE,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,15,15,383,1
+Style: Captions-207-,Gilroy-Medium,90,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,16,16,27,1
+Style: RogerMonologue,Impress BT,80,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Lyrics,Futura Md BT,60,&H00FF762C,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,80,80,27,1
+Style: Attack,Dry Brush,80,&H0086ECFF,&H00FFFFFF,&H00000026,&H96000000,0,0,0,0,100,100,0,0,1,1.4,1.4,2,12,12,27,1
+Style: Author,LeviBrush,34,&H00FFFFFF,&H0000FFFF,&H37000000,&HFFB07236,0,0,0,0,100.0,100,0.0,0,4,1.2,1.2,9,6,6,6,1
+Style: Luffy Monologue,Impress BT,80,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Lyrics-End,Futura Md BT,60,&H00FFFFFF,&H000000FF,&H00FF762C,&H00000000,0,0,0,0,100,100,0,0,1,1.6,0,2,80,80,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 50,0:01:58.72,0:02:02.35,Main-207-,,0,0,0,,K-Kahretsin! Bu delilik! \NBuradan çıkmalıyız!
+Dialogue: 50,0:02:02.35,0:02:05.31,Main-207-,,0,0,0,,Buradaki her şey yok olacak!
+Dialogue: 50,0:02:10.03,0:02:15.82,Main-207-,,0,0,0,,Demek oradalardı. \NAşağılık Shandian savaşçıları ve köyleri.
+Dialogue: 50,0:02:16.45,0:02:21.58,Main-207-,,0,0,0,,Esasında Mavi Deniz'den gelmeler.\NBunu kesinlikle hoş karşılayacaklar.
+Dialogue: 50,0:02:26.17,0:02:28.96,Main-207-,,0,0,0,,Şimdi, Mavi Deniz'e düşün!
+Dialogue: 50,0:02:39.10,0:02:40.43,Main-207-,,0,0,0,,Köyümüz!
+Dialogue: 50,0:02:42.73,0:02:44.06,Main-207-,,0,0,0,,Ucuz atlattık...
+Dialogue: 50,0:02:44.06,0:02:47.15,Main-207-,,0,0,0,,Biraz daha bekleseydik, hepimiz ölmüştük.
+Dialogue: 50,0:02:54.74,0:02:57.99,Flashbacks-207-,,0,0,0,,Büyük Savaşçı Kalgara üzerine yemin edin!
+Dialogue: 50,0:03:01.33,0:03:04.08,Flashbacks-207-,,0,0,0,,"Shandora'nın Ateşi'ni yakın!"
+Dialogue: 50,0:03:11.17,0:03:12.46,Flashbacks-207-,,0,0,0,,Wyper...
+Dialogue: 50,0:03:13.26,0:03:17.26,Flashbacks-207-,,0,0,0,,Uzak atan Büyük Savaşçı Kalgara'nın,...
+Dialogue: 50,0:03:17.26,0:03:22.06,Flashbacks-207-,,0,0,0,,{\q2}...yurdumuzu umutsuzca geri almaya\Nçalışmasının başka bir sebebi daha vardı.
+Dialogue: 50,0:03:22.06,0:03:24.10,Flashbacks-207-,,0,0,0,,Başka bir sebep mi?
+Dialogue: 50,0:03:24.77,0:03:25.81,Flashbacks-207-,,0,0,0,,Evet.
+Dialogue: 50,0:03:25.81,0:03:29.27,Flashbacks-207-,,0,0,0,,Kalgara için, \Nbu onun en büyük pişmanlığı oldu.
+Dialogue: 50,0:03:30.52,0:03:31.77,Flashbacks-207-,,0,0,0,,Şimdi dinle.
+Dialogue: 50,0:03:31.77,0:03:36.07,Flashbacks-207-,,0,0,0,,Büyük Savaşçı Kalgara'nın bir can dostu varmış.
+Dialogue: 50,0:03:36.07,0:03:37.95,Flashbacks-207-,,0,0,0,,Can dostu mu?
+Dialogue: 50,0:03:39.49,0:03:45.66,Flashbacks-207-,,0,0,0,,Evet. Dört yüz yıl önce Kalgara'yı tanımaya geldi ve adı...
+Dialogue: 50,0:03:48.25,0:03:50.75,Flashbacks-207-,,0,0,0,,...Mont Blanc Noland'dı!
+Dialogue: 50,0:03:57.88,0:04:00.47,Narrator-207-,,0,0,0,,Uzun, uzun zaman evvel...
+Dialogue: 50,0:04:00.47,0:04:03.31,Narrator-207-,,0,0,0,,...belki de 400 yıl önce.
+Dialogue: 50,0:04:03.31,0:04:06.31,Narrator-207-,,0,0,0,,Asla yazıya dökülmemiş ama...
+Dialogue: 50,0:04:06.31,0:04:10.52,Narrator-207-,,0,0,0,,...duyanların kalplerine\Nkazınmaya devam etmiş bir hikaye...
+Dialogue: 50,0:04:11.48,0:04:14.19,Main-207-,,0,0,0,,Gemiye binin, çabuk!
+Dialogue: 50,0:04:15.90,0:04:18.40,Main-207-,,0,0,0,,Shandora İblisi ensemizde!
+Dialogue: 50,0:04:18.40,0:04:21.24,Main-207-,,0,0,0,,Çabuk! Yelken açın! Hemen yelken açın!
+Dialogue: 50,0:04:21.24,0:04:22.70,Main-207-,,0,0,0,,Tayfa henüz gemiye-
+Dialogue: 50,0:04:22.70,0:04:24.91,Main-207-,,0,0,0,,Hemen denize açılın!
+Dialogue: 50,0:04:28.12,0:04:31.04,Main-207-,,0,0,0,,Geldi!
+Dialogue: 50,0:04:44.22,0:04:45.39,Main-207-,,0,0,0,,Yok edileceksiniz!
+Dialogue: 50,0:05:01.07,0:05:04.08,Main-207-,,0,0,0,,Her şeyi bırakıp gidin.
+Dialogue: 50,0:05:12.75,0:05:15.67,Main-207-,,0,0,0,,Komodor, işte raporum!
+Dialogue: 50,0:05:15.67,0:05:18.46,Main-207-,,0,0,17,,Erzağımız bitti.
+Dialogue: 50,0:05:18.46,0:05:23.34,Main-207-,,0,0,0,,Şu an resmen çok zor... durumdayız...
+Dialogue: 50,0:05:23.97,0:05:25.68,Main-207-,,0,0,0,,Aşçı bayıldı.
+Dialogue: 50,0:05:25.68,0:05:28.14,Main-207-,,0,0,0,,Lanet olsun! Hiç yemek kalmadı!
+Dialogue: 50,0:05:29.56,0:05:31.31,Main-207-,,0,0,0,,Komodor denize düştü.
+Dialogue: 50,0:05:31.31,0:05:33.06,Main-207-,,0,0,0,,Burası Grand Line!
+Dialogue: 50,0:05:33.06,0:05:35.52,Main-207-,,0,0,0,,Kendini boğup, bizi terk mi etti?!
+Dialogue: 50,0:05:35.52,0:05:38.36,Main-207-,,0,0,0,,Belki de açlıktan ölmektense\Nçabuk bir ölümü seçmiştir.
+Dialogue: 50,0:05:38.36,0:05:39.44,Main-207-,,0,0,0,,Saçmalık!
+Dialogue: 50,0:05:39.44,0:05:42.78,Main-207-,,0,0,0,,Grand Line'dan iki kez geri dönmeyi başardı! O bir efsane.
+Dialogue: 50,0:05:42.78,0:05:46.24,Main-207-,,0,0,0,,{\q2}Öyleyse niye elbiselerini ve ayakkabılarını \Ndüzeltip güverteye bırakmış?!
+Dialogue: 50,0:05:46.91,0:05:49.04,Main-207-,,0,0,0,,H-Hey! Biri gidip baksın...
+Dialogue: 50,0:05:49.04,0:05:50.29,Main-207-,,0,0,0,,Olmaz!
+Dialogue: 50,0:05:50.29,0:05:51.91,Main-207-,,0,0,0,,Bu sular canavarlarla dolu!
+Dialogue: 50,0:05:51.91,0:05:53.37,Main-207-,,0,0,0,,Geri dönmeyecek!
+Dialogue: 50,0:05:54.17,0:05:55.54,Main-207-,,0,0,0,,– K-Komodor!\N– K-Komodor!
+Dialogue: 50,0:05:55.54,0:05:58.92,Main-207-,,0,0,0,,Epey çevikti! Al.
+Dialogue: 50,0:05:58.92,0:06:00.97,Main-207-,,0,0,0,,Eh... ip mi?
+Dialogue: 50,0:06:02.72,0:06:03.51,Main-207-,,0,0,0,,Yukarı çekin.
+Dialogue: 50,0:06:07.01,0:06:08.93,Main-207-,,0,0,0,,Bu nedir, Komodor?!
+Dialogue: 50,0:06:08.93,0:06:11.10,Main-207-,,0,0,0,,Yoksa bu şeyi su altında mı öldürdünüz?!
+Dialogue: 50,0:06:11.10,0:06:12.44,Main-207-,,0,0,0,,Pişirin.
+Dialogue: 50,0:06:13.44,0:06:17.44,Main-207-,,0,0,0,,Tembellik gerçekten duyuları köreltir.
+Dialogue: 50,0:06:20.57,0:06:22.61,Main-207-,,0,0,0,,Bu büyük bir fırtına, Komodor!
+Dialogue: 50,0:06:22.61,0:06:24.95,Main-207-,,0,0,0,,Bu sallanmayla kesinlikle öyle görünüyor.
+Dialogue: 50,0:06:24.95,0:06:27.12,Main-207-,,0,0,0,,“Öyle görünüyor” mu? Cidden mi?!
+Dialogue: 50,0:06:28.16,0:06:29.99,Main-207-,,0,0,0,,Serenimiz* gitti!
+Dialogue: 50,0:06:29.99,0:06:30.83,Main-207-,,0,0,0,,Nereye?!
+Dialogue: 50,0:06:30.83,0:06:31.91,Main-207-,,0,0,0,,Ana direk!
+Dialogue: 50,0:06:31.91,0:06:36.50,Thoughts-207-,,0,0,0,,Bu üçüncü yolculuğum.\Nİki yıldan fazladır sürüyor.
+Dialogue: 50,0:06:36.50,0:06:39.05,Thoughts-207-,,0,0,0,,Bu kadar uzun süre devam\Netmiş olmamız bir mucize.
+Dialogue: 50,0:06:41.80,0:06:43.63,Main-207-,,0,0,0,,Hey, şunu duydun mu?
+Dialogue: 50,0:06:44.05,0:06:46.80,Main-207-,,0,0,0,,Ha? Yıldırımı mı kastediyorsun?
+Dialogue: 50,0:06:46.80,0:06:49.64,Main-207-,,0,0,0,,Hayır, güzel bir çan sesi...
+Dialogue: 50,0:06:50.35,0:06:51.81,Main-207-,,0,0,0,,öyle bir şey...
+Dialogue: 50,0:06:54.89,0:06:56.81,Main-207-,,0,0,0,,Rahip, bizimle kal!
+Dialogue: 50,0:06:56.81,0:07:01.82,Main-207-,,0,0,10,,Bu topraklar lanetli! Bu gidişle Shandiyalılar tamamen yok olacak!
+Dialogue: 50,0:07:01.82,0:07:05.74,Main-207-,,0,0,0,,K-Köyü nasıl kurtarabiliriz, Rahip?!
+Dialogue: 50,0:07:05.74,0:07:08.91,Main-207-,,0,0,0,,B-Bir kız... sunmalıyız!
+Dialogue: 50,0:07:09.83,0:07:12.62,Main-207-,,0,0,0,,Kurban sunağında!
+Dialogue: 50,0:07:21.17,0:07:23.59,Main-207-,,0,0,0,,Kaç kurban oldu?
+Dialogue: 50,0:07:25.22,0:07:27.18,Main-207-,,0,0,0,,Yüzden fazla...
+Dialogue: 50,0:07:27.84,0:07:29.93,Main-207-,,0,0,0,,Bu nasıl olabilir?
+Dialogue: 50,0:07:29.93,0:07:32.35,Main-207-,,0,0,0,,Daha önce hiç böyle bir şey olmamıştı!
+Dialogue: 50,0:07:37.31,0:07:40.77,Main-207-,,0,0,0,,Köyü kurtaracaksa\Nmemnuniyetle bedenimi vereceğim.
+Dialogue: 50,0:07:43.82,0:07:45.82,Main-207-,,0,0,0,,Niye ağlıyorsun, anne?
+Dialogue: 50,0:07:47.15,0:07:52.12,Main-207-,,0,0,0,,Güneş Tanrısı'yla tanışacağım.
+Dialogue: 50,0:07:52.66,0:07:56.41,Main-207-,,0,0,0,,Kurban olarak seçilmek bir onurdur.
+Dialogue: 50,0:08:00.54,0:08:04.13,Main-207-,,0,0,0,,Yıllardır beni büyüttüğün\Niçin teşekkür ederim, anne.
+Dialogue: 50,0:08:04.80,0:08:06.30,Main-207-,,0,0,0,,Mousse!
+Dialogue: 50,0:08:10.30,0:08:13.01,Main-207-,,0,0,0,,Bu kötü bir rüyaysa, uyandırın beni!
+Dialogue: 50,0:08:13.60,0:08:15.18,Main-207-,,0,0,0,,Lanet olsun!
+Dialogue: 50,0:08:15.81,0:08:16.93,Main-207-,,0,0,0,,Defol!
+Dialogue: 50,0:08:18.31,0:08:20.15,Main-207-,,0,0,0,,Çekil üzerimden!
+Dialogue: 50,0:08:23.07,0:08:24.94,Main-207-,,0,0,0,,Büyük Savaşçı Kalgara...
+Dialogue: 50,0:08:25.36,0:08:26.99,Main-207-,,0,0,0,,Seto...
+Dialogue: 50,0:08:26.99,0:08:30.36,Main-207-,,0,0,0,,Bir gün senin gibi olmak istiyordum,...
+Dialogue: 50,0:08:30.99,0:08:36.08,Main-207-,,0,0,0,,...yurdumuzu korumak için\Ndövüşen cesur bir savaşçı!
+Dialogue: 50,0:08:38.25,0:08:41.04,Main-207-,,0,0,0,,Bu şekilde ölmek istemiyorum!
+Dialogue: 50,0:08:47.30,0:08:49.34,Main-207-,,0,0,0,,Harikasınız, Komodor!
+Dialogue: 50,0:08:49.34,0:08:53.05,Main-207-,,0,0,0,,Söylediğin yöne doğru gidiyoruz ve\Nkesinlikle karşımıza bir ada çıkıyor!
+Dialogue: 50,0:08:53.05,0:08:56.27,Main-207-,,0,0,0,,Evet, tam zamanında.\NFırtınayı burada atlatabiliriz.
+Dialogue: 50,0:08:56.27,0:08:59.60,Main-207-,,0,0,0,,Ama gerçekten hiçbiriniz duymadınız mı?
+Dialogue: 50,0:08:59.60,0:09:02.94,Main-207-,,0,0,0,,Hayır, kimse çan sesi duymadı. Değil mi?
+Dialogue: 50,0:09:02.94,0:09:06.28,Main-207-,,0,0,0,,Evet! Gaipten sesler duyuyor olmalısın, Komodor!
+Dialogue: 50,0:09:13.53,0:09:15.58,Main-207-,,0,0,0,,Ne muhteşem bir orman!
+Dialogue: 50,0:09:15.58,0:09:18.16,Main-207-,,0,0,0,,Umarım araştırabileceğimiz\Niyi türler buluruz.
+Dialogue: 50,0:09:26.88,0:09:30.13,Main-207-,,0,0,0,,Komodor! \NDuyduğunuz ses bu muydu?!
+Dialogue: 50,0:09:30.67,0:09:33.09,Main-207-,,0,0,0,,Hey, kesin şunu.
+Dialogue: 50,0:09:33.09,0:09:37.10,Main-207-,,0,0,0,,Az önce duyduğum şeyi asla bu garip kuş sesleriyle karıştırmam!
+Dialogue: 50,0:09:38.47,0:09:40.48,Main-207-,,0,0,0,,K-Komodor! Bu...?
+Dialogue: 50,0:10:01.91,0:10:04.92,Main-207-,,0,0,0,,Vay be... Ne güzel bir ses...
+Dialogue: 50,0:10:06.42,0:10:08.55,Main-207-,,0,0,0,,Demek bu adada yerleşim var.
+Dialogue: 50,0:10:10.05,0:10:13.30,Main-207-,,0,0,0,,Durun, Komodor! Bekleyin biraz!
+Dialogue: 50,0:10:17.39,0:10:18.72,Main-207-,,0,0,0,,Yerde biri var!
+Dialogue: 50,0:10:18.72,0:10:20.60,Main-207-,,0,0,0,,Olamaz! Davetsiz misafirler...
+Dialogue: 50,0:10:23.69,0:10:24.94,Main-207-,,0,0,0,,Hey, çocuk...
+Dialogue: 50,0:10:24.94,0:10:27.82,Main-207-,,0,0,0,,Komodor, bu çocukta bir tuhaflık var!
+Dialogue: 50,0:10:29.86,0:10:30.69,Main-207-,,0,0,0,,Dur, hey!
+Dialogue: 50,0:10:32.40,0:10:34.11,Main-207-,,0,0,0,,Bırakın beni!
+Dialogue: 50,0:10:36.24,0:10:38.24,Main-207-,,0,0,0,,Ağaç ateşi.
+Dialogue: 50,0:10:38.24,0:10:39.95,Main-207-,,0,0,0,,Tedavi edilmemiş.
+Dialogue: 50,0:10:39.95,0:10:42.50,Main-207-,,0,0,0,,Bu kötü! Bu ada sorun!
+Dialogue: 50,0:10:42.50,0:10:44.87,Main-207-,,0,0,0,,Doktor, hiç koniin* kaldı mı?
+Dialogue: 50,0:10:44.87,0:10:47.84,Main-207-,,0,0,0,,Bu çocuğa ve geri kalanımıza hemen aşı yap!
+Dialogue: 50,0:10:53.55,0:10:54.80,Main-207-,,0,0,0,,Bu korkunç.
+Dialogue: 50,0:10:55.84,0:10:58.26,Main-207-,,0,0,0,,Ekinler bile etkilenmiş.
+Dialogue: 50,0:11:00.89,0:11:03.43,Main-207-,,0,0,0,,Komodor, bütün köy hasta!
+Dialogue: 50,0:11:15.24,0:11:17.78,Main-207-,,0,0,0,,Kızı sunağa getirin!
+Dialogue: 50,0:11:22.08,0:11:23.95,Main-207-,,0,0,0,,Güneş Tanrısı...
+Dialogue: 50,0:11:24.50,0:11:26.29,Main-207-,,0,0,0,,Yağmur Tanrısı...
+Dialogue: 50,0:11:27.04,0:11:28.58,Main-207-,,0,0,0,,Orman Tanrısı...
+Dialogue: 50,0:11:29.13,0:11:31.42,Main-207-,,0,0,0,,Toprak Tanrısı...
+Dialogue: 50,0:11:32.30,0:11:39.35,Main-207-,,0,0,0,,Bu kızın hayatına karşılık\Nlütfen köyümüzü kurtar!
+Dialogue: 50,0:11:51.44,0:11:52.73,Main-207-,,0,0,0,,Tanrı Kashi!
+Dialogue: 50,0:11:57.15,0:11:59.24,Main-207-,,0,0,0,,Mousse!
+Dialogue: 50,0:11:59.24,0:12:01.45,Main-207-,,0,0,0,,Yapmamalısın!\NKöyü kurtarabilir!
+Dialogue: 50,0:12:01.78,0:12:06.04,Main-207-,,0,0,0,,Tanrı Kashi, ne büyüleyici bir şekil.
+Dialogue: 50,0:12:07.46,0:12:09.17,Main-207-,,0,0,0,,Lütfen...
+Dialogue: 50,0:12:10.04,0:12:13.71,Main-207-,,0,0,0,,Lütfen oğlumu ve babamı kurtar!
+Dialogue: 50,0:12:15.38,0:12:17.34,Main-207-,,0,0,0,,Ne...?! Bir şey düştü!
+Dialogue: 50,0:12:17.72,0:12:18.47,Main-207-,,0,0,0,,O da neydi?
+Dialogue: 50,0:12:37.03,0:12:39.28,Main-207-,,0,0,0,,Ne oldu öyle?! O da kim?!
+Dialogue: 50,0:12:39.28,0:12:40.24,Main-207-,,0,0,0,,Tanrı Kashi!
+Dialogue: 50,0:12:40.70,0:12:42.66,Main-207-,,0,0,0,,Tanrı Katili!
+Dialogue: 50,0:12:48.54,0:12:50.29,Main-207-,,0,0,0,,Bu ayin bitti.
+Dialogue: 50,0:12:50.67,0:12:52.29,Main-207-,,0,0,0,,Korkmuş olmalısın.
+Dialogue: 50,0:12:52.29,0:12:53.67,Main-207-,,0,0,0,,Artık güvendesin.
+Dialogue: 50,0:12:53.67,0:12:55.67,Main-207-,,0,0,0,,Ölmen gerekmiyor.
+Dialogue: 50,0:12:59.13,0:13:01.55,Main-207-,,0,0,0,,Tanrı Kashi!\NLütfen bizi bağışla!
+Dialogue: 50,0:13:01.55,0:13:03.51,Main-207-,,0,0,0,,Hepimiz lanetleneceğiz!
+Dialogue: 50,0:13:03.51,0:13:04.35,Main-207-,,0,0,0,,İkisini de öldürün!
+Dialogue: 50,0:13:04.35,0:13:08.02,Main-207-,,0,0,0,,Tanrıya daha fazla can sunun!\NOnun öfkesine maruz kalmadan önce!
+Dialogue: 50,0:13:08.60,0:13:09.81,Secondary-207-,,0,0,0,,{\an8}Kalgara!
+Dialogue: 50,0:13:09.81,0:13:12.27,Secondary-207-,,0,0,0,,{\an8}Öldür onu!
+Dialogue: 50,0:13:09.81,0:13:12.27,Main-207-,,0,0,0,,Sanırım kötü bir şey yaptı...
+Dialogue: 50,0:13:12.27,0:13:14.06,Main-207-,,0,0,0,,Epey kızmış gibiler!
+Dialogue: 50,0:13:14.06,0:13:16.78,Main-207-,,0,0,0,,Komodor... şimdi neyin içine bulaştın?!
+Dialogue: 50,0:13:16.78,0:13:18.28,Main-207-,,0,0,0,,Bir tanrı mı öldürdü?!
+Dialogue: 50,0:13:18.28,0:13:19.49,Main-207-,,0,0,0,,Bu da ne demek?!
+Dialogue: 50,0:13:19.49,0:13:22.99,Main-207-,,0,0,0,,Kabile ayinine karışmamalıydı!
+Dialogue: 50,0:13:22.99,0:13:26.49,Main-207-,,0,0,0,,Lütfen tanrının öfkesini yatıştır,\NBüyük Savaşçı Kalgara!
+Dialogue: 50,0:13:26.99,0:13:30.58,Main-207-,,0,0,0,,Ben Kuzey Mavi'den bir kaşif, \NMont Blanc No–
+Dialogue: 50,0:13:30.58,0:13:33.58,Main-207-,,0,0,0,,Kim olduğun umrumda değil!
+Dialogue: 50,0:13:33.58,0:13:34.88,Main-207-,,0,0,0,,Yok edileceksin!
+Dialogue: 50,0:13:35.67,0:13:39.75,Main-207-,,0,0,0,,Sorunlarınızı ucunda gelişim\Nolsa bile böyle mi çözüyorsunuz?
+Dialogue: 50,0:13:39.77,0:13:40.59,Main-207-,,0,0,0,,Yok ederek mi?
+Dialogue: 50,0:13:40.59,0:13:44.85,Main-207-,,0,0,0,,Bize vaaz vermeye hakkın yok!\NDurduğun yerde tanrılara kefaretini öde.
+Dialogue: 50,0:13:45.35,0:13:46.81,Main-207-,,0,0,0,,Kim bu adam?
+Dialogue: 50,0:13:46.81,0:13:48.72,Main-207-,,0,0,0,,Kalgara'yla eşit dövüşüyor!
+Dialogue: 50,0:13:56.77,0:13:59.82,Main-207-,,0,0,0,,Al! Bıçağı kullan ve canını feda et!
+Dialogue: 50,0:14:01.82,0:14:02.95,Main-207-,,0,0,0,,Ne?!
+Dialogue: 50,0:14:02.95,0:14:07.37,Main-207-,,0,0,0,,Köyümüzü kurtaracak olan kurban,\Nkendi hayatı için yalvarıp sızlıyor.
+Dialogue: 50,0:14:07.70,0:14:08.74,Main-207-,,0,0,0,,Hiç utanmıyor musun?!
+Dialogue: 50,0:14:12.87,0:14:14.25,Main-207-,,0,0,0,,Aptal olma!
+Dialogue: 50,0:14:16.21,0:14:16.96,Main-207-,,0,0,0,,Dur!
+Dialogue: 50,0:14:32.60,0:14:34.98,Main-207-,,0,0,0,,K-Komodor!
+Dialogue: 50,0:14:39.19,0:14:42.78,Main-207-,,0,0,0,,Yüzlerce yıldır kutsal görevimiz...
+Dialogue: 50,0:14:42.78,0:14:45.66,Main-207-,,0,0,0,,...bütün davetsiz misafirleri\Nbu adadan def etmek oldu!
+Dialogue: 50,0:14:45.66,0:14:47.70,Main-207-,,0,0,0,,Bir tanrıyı öldürerek\Naffedilmez bir günah işledin!
+Dialogue: 50,0:14:47.70,0:14:49.79,Main-207-,,0,0,0,,Sadece senin canın bu durumu düzeltemez!
+Dialogue: 50,0:14:49.79,0:14:54.42,Main-207-,,0,0,0,,Bu iğrençliğin kefaretini ödemek\Niçin hepinizin canını alacağız!
+Dialogue: 50,0:14:54.42,0:14:58.54,Main-207-,,0,0,0,,Tüm mesele hayat ve kurban mı?
+Dialogue: 50,0:14:58.54,0:15:00.88,Main-207-,,0,0,0,,Tanrınızın istediği bu mu?
+Dialogue: 50,0:15:01.55,0:15:04.93,Main-207-,,0,0,0,,Bu ayin insanlığın gelişimine bir hakarettir.
+Dialogue: 50,0:15:04.93,0:15:07.72,Main-207-,,0,0,0,,Buna daha fazla katlanmayacağım!
+Dialogue: 50,0:15:09.10,0:15:13.89,Main-207-,,0,0,0,,Yağtığınız şey, insanlara mutluluk getirme umuduyla denize açılan...
+Dialogue: 50,0:15:13.89,0:15:17.31,Main-207-,,0,0,0,,...tüm kaşifler ve araştırmacılar için bir utanç kaynağıdır!
+Dialogue: 50,0:15:18.40,0:15:21.19,Main-207-,,0,0,0,,Eğer tanrılarınız insanların hayatlarına değer veriyorsa,...
+Dialogue: 50,0:15:21.19,0:15:25.36,Main-207-,,0,0,0,,...o zaman bu ayinlere de tiksinti duymalılar, değil mi?!
+Dialogue: 50,0:15:28.74,0:15:30.20,Main-207-,,0,0,0,,Bana zaman verin!
+Dialogue: 50,0:15:32.66,0:15:36.29,Main-207-,,0,0,0,,Bu lanet dediğiniz şeyi kaldıracağım!
+Dialogue: 50,0:15:36.29,0:15:40.88,Main-207-,,0,0,0,,Yapamazsam \Nbize istediğinizi yapabilirsiniz!
+Dialogue: 50,0:15:41.50,0:15:42.92,Main-207-,,0,0,0,,Saçmalık!
+Dialogue: 50,0:15:42.92,0:15:45.67,Main-207-,,0,0,0,,Seni köpek, kendini tanrı falan mı sanıyorsun?!
+Dialogue: 50,0:15:46.84,0:15:51.60,Main-207-,,0,0,0,,Buna karşılık, köyü kurtarabilirsem...
+Dialogue: 50,0:15:51.60,0:15:54.06,Main-207-,,0,0,0,,...bir daha bu ayini asla\Nyapmayacağınıza yemin etmelisiniz!
+Dialogue: 50,0:15:55.56,0:15:57.14,Main-207-,,0,0,0,,Bitirdin mi?
+Dialogue: 50,0:15:57.60,0:15:58.65,Main-207-,,0,0,0,,Saçmalığın daniskası!
+Dialogue: 50,0:15:58.65,0:16:00.94,Main-207-,,0,0,0,,Hayatın burada sona erecek!
+Dialogue: 50,0:16:00.94,0:16:02.36,Main-207-,,0,0,0,,Bırak denesin!
+Dialogue: 50,0:16:03.73,0:16:04.90,Main-207-,,0,0,0,,H-Ha?
+Dialogue: 50,0:16:04.90,0:16:06.07,Main-207-,,0,0,0,,Ne diyorsun?
+Dialogue: 50,0:16:06.90,0:16:10.78,Main-207-,,0,0,0,,Bu adamların kaderi yarın akşam belli olacak.
+Dialogue: 50,0:16:11.53,0:16:13.74,Main-207-,,0,0,0,,İhtiyacım olan tek şey bu!
+Dialogue: 50,0:16:17.58,0:16:22.54,Main-207-,,0,0,0,,Yarın gün batımında, "Elveda dünya" diyeceğiz!
+Dialogue: 50,0:16:24.00,0:16:25.71,Main-207-,,0,0,0,,Komodora güvenin!
+Dialogue: 50,0:16:25.71,0:16:27.34,Main-207-,,0,0,0,,Hey, hanımefendi.
+Dialogue: 50,0:16:27.34,0:16:30.72,Main-207-,,0,0,0,,İşler senin için de zor olmalı.\NBu köyde doğmuş olman çok yazık.
+Dialogue: 50,0:16:30.72,0:16:31.89,Main-207-,,0,0,0,,Evet, doğru dedin.
+Dialogue: 50,0:16:31.89,0:16:34.68,Main-207-,,0,0,0,,Geldiğimiz yerde bir aristokratla\Nevlenecek kadar güzel sayılırdın.
+Dialogue: 50,0:16:34.68,0:16:37.06,Main-207-,,0,0,0,,Yeter!\NHiç nezaket duyunuz yok mu?
+Dialogue: 50,0:16:37.77,0:16:38.56,Main-207-,,0,0,0,,Kim o?
+Dialogue: 50,0:16:39.31,0:16:41.48,Main-207-,,0,0,0,,Komodoru mu kastediyorsun?
+Dialogue: 50,0:16:41.48,0:16:43.36,Main-207-,,0,0,0,,Mont Blanc Noland.
+Dialogue: 50,0:16:43.36,0:16:47.40,Main-207-,,0,0,0,,Epey ünlü bir kaşiftir.\NAyrıca yetenekli bir bitki bilimcidir.
+Dialogue: 50,0:16:47.40,0:16:52.45,Main-207-,,0,0,0,,Yeni bitkileri belgelemek ve araştırmak için keşfedilmemiş adaları ziyaret eder.
+Dialogue: 50,0:16:52.45,0:16:55.12,Main-207-,,0,0,0,,Memlekette kahraman sayılır.
+Dialogue: 50,0:16:55.12,0:16:57.62,Main-207-,,0,0,0,,Ama çok iyi bir adamdır...
+Dialogue: 50,0:16:57.62,0:17:00.87,Main-207-,,0,0,0,,Bu gibi durumlara bir türlü sırt çeviremez!
+Dialogue: 50,0:17:00.87,0:17:02.96,Main-207-,,0,0,0,,Yine de ona güveniyoruz!
+Dialogue: 50,0:17:05.38,0:17:08.63,Main-207-,,0,0,0,,Niye Kalgara'nın onu\Nöldürmesine izin vermedin?
+Dialogue: 50,0:17:08.63,0:17:11.72,Main-207-,,0,0,0,,Aradığınız cevabı yarın alacaksınız.
+Dialogue: 50,0:17:11.72,0:17:14.22,Main-207-,,0,0,0,,Köyü kurtaracağını söyledi.
+Dialogue: 50,0:17:14.22,0:17:16.14,Main-207-,,0,0,0,,Beklemekle bir şey kaybetmeyiz.
+Dialogue: 50,0:17:16.14,0:17:17.89,Main-207-,,0,0,0,,Nasıl bu kadar gamsız olabilirsin?
+Dialogue: 50,0:17:17.89,0:17:22.10,Main-207-,,0,0,0,,Rahibin sözlerini görmezden\Ngelip o adama güvendin.
+Dialogue: 50,0:17:22.48,0:17:25.57,Main-207-,,0,0,0,,Kalgara, lütfen bu konuda bir şey söyle!
+Dialogue: 50,0:17:25.57,0:17:28.28,Main-207-,,0,0,0,,Köy için en ufak bir\Ntehlike bile hissedersem,...
+Dialogue: 50,0:17:28.28,0:17:32.95,Main-207-,,0,0,0,,...onu öldürmek için yarın\Nakşamı beklemeyeceğim.
+Dialogue: 50,0:17:33.95,0:17:37.37,Main-207-,,0,0,0,,Tanrıların seslerini duyma gücüm yok.
+Dialogue: 50,0:17:37.95,0:17:38.79,Main-207-,,0,0,0,,Ancak...
+Dialogue: 50,0:17:39.54,0:17:44.28,Main-207-,,0,0,0,,...akıllı bir adamın sözlerini duyabilirim.
+Dialogue: 50,0:17:44.28,0:17:45.84,Main-207-,,0,0,0,,Hepsi bu.
+Dialogue: 50,0:17:51.05,0:17:53.05,Main-207-,,0,0,0,,Niye hala uyanıksın?
+Dialogue: 50,0:17:53.05,0:17:53.84,Main-207-,,0,0,0,,İyileştim.
+Dialogue: 50,0:17:55.93,0:17:58.02,Main-207-,,0,0,0,,Büyük Savaşçı Kalgara...
+Dialogue: 50,0:17:58.77,0:18:02.06,Main-207-,,0,0,0,,“Gelişim” nedir?
+Dialogue: 50,0:18:10.90,0:18:12.28,Main-207-,,0,0,0,,Buldum!
+Dialogue: 50,0:18:12.28,0:18:14.20,Main-207-,,0,0,0,,Kona ağacı!
+Dialogue: 50,0:18:14.57,0:18:18.66,Main-207-,,0,0,0,,Elbette bu kadar büyük\Nbir ormanda bulabilirim.
+Dialogue: 50,0:18:24.00,0:18:25.83,Main-207-,,0,0,0,,Deprem!
+Dialogue: 50,0:18:25.83,0:18:27.34,Main-207-,,0,0,0,,Geliyor! Gerçekten geliyor!
+Dialogue: 50,0:18:27.34,0:18:29.25,Main-207-,,0,0,0,,Bu Tanrı Kashi'nin öfkesi!
+Dialogue: 50,0:18:33.18,0:18:35.39,Main-207-,,0,0,0,,Çıkarın bizi buradan!
+Dialogue: 50,0:18:47.11,0:18:49.07,Main-207-,,0,0,0,,Bu çok kötü.
+Dialogue: 50,0:18:49.07,0:18:51.74,Main-207-,,0,0,0,,Ormanın tabanı çöküyor.
+Dialogue: 50,0:18:51.74,0:18:54.20,Main-207-,,0,0,0,,Görünüşe göre ada parçalanmak üzere!
+Dialogue: 50,0:19:04.46,0:19:05.83,Main-207-,,0,0,0,,Ne güzel görünüyorsun.
+Dialogue: 50,0:19:06.58,0:19:10.50,Main-207-,,0,0,0,,Tanrı seni kendi cezalandırmayı\Nseçmiş gibi görünüyor!
+Dialogue: 50,0:19:12.51,0:19:14.88,Main-207-,,0,0,0,,Öyleyse tanrın...
+Dialogue: 50,0:19:14.88,0:19:18.01,Main-207-,,0,0,0,,...söylediğin kadar güçlü değil gibi.
+Dialogue: 50,0:19:18.01,0:19:22.22,Main-207-,,0,0,0,,Tek bir adamı öldürecek gücü bile yok.
+Dialogue: 50,0:19:25.23,0:19:27.35,Main-207-,,0,0,0,,İnatçısın.
+Dialogue: 50,0:19:27.35,0:19:30.11,Main-207-,,0,0,0,,Üzgünüm ama çekip gider misin?
+Dialogue: 50,0:19:30.11,0:19:32.69,Main-207-,,0,0,0,,Şu an yüzünü görmek istemiyorum.
+Dialogue: 50,0:19:32.69,0:19:36.20,Main-207-,,0,0,0,,Hemen köye gitmeliyim.
+Dialogue: 50,0:19:36.20,0:19:38.16,Main-207-,,0,0,0,,İlginç.
+Dialogue: 50,0:19:38.16,0:19:39.83,Main-207-,,0,0,0,,Sanırım bu oyunu izleyeceğim.
+Dialogue: 50,0:19:40.70,0:19:42.58,Main-207-,,0,0,0,,Çıkabilirsen çık!
+Dialogue: 50,0:19:43.79,0:19:47.58,Main-207-,,0,0,0,,Bir savaşçı daha öldü.
+Dialogue: 50,0:19:47.58,0:19:49.58,Main-207-,,0,0,0,,Ve depremin yol açtığı hasar...
+Dialogue: 50,0:19:49.58,0:19:50.67,Main-207-,,0,0,0,,Kahretsin!
+Dialogue: 50,0:19:55.34,0:19:57.88,Main-207-,,0,0,0,,Siz kötü ruhlarsınız!
+Dialogue: 50,0:19:57.88,0:20:00.89,Main-207-,,0,0,0,,{\q2}Kefaretini ödemelisiniz... şimdi ve burda!
+Dialogue: 50,0:19:58.76,0:20:00.89,Secondary-207-,,0,0,0,,H-Hey, yanlış anladınız! Hey, durun!
+Dialogue: 50,0:20:00.89,0:20:02.18,Main-207-,,0,0,0,,{\pos(713.99,1049)}Durun!
+Dialogue: 50,0:20:01.56,0:20:02.18,Secondary-207-,,0,0,0,,{\pos(715.99,967)}Dikkat edin!
+Dialogue: 50,0:20:09.40,0:20:11.23,Main-207-,,0,0,0,,Seto! Çekil yolumuzdan!
+Dialogue: 50,0:20:11.23,0:20:12.23,Main-207-,,0,0,0,,Ne yapıyorsun!?
+Dialogue: 50,0:20:13.11,0:20:15.86,Main-207-,,0,0,0,,Değer verdiğim Shandia savaşçıları...
+Dialogue: 50,0:20:16.74,0:20:19.07,Main-207-,,0,0,0,,...bundan daha fazla onurlu olmalı!
+Dialogue: 50,0:20:19.91,0:20:21.24,Main-207-,,0,0,0,,Çocuk...
+Dialogue: 50,0:20:22.33,0:20:26.87,Main-207-,,0,0,0,,{\q2}Güneş gökyüzünün batısında alçalmaya\Nbaşlayıp bir kez daha denize battığında,...
+Dialogue: 50,0:20:27.25,0:20:32.09,Main-207-,,0,0,0,,...adamlarının hayatı\Ntanrılara sunulmuş olacak.
+Dialogue: 50,0:20:39.72,0:20:41.55,Main-207-,,0,0,0,,Kahretsin!
+Dialogue: 50,0:20:46.02,0:20:49.73,Main-207-,,0,0,0,,Toprak kaymasına yakalanman\Nnasıl da yerinde bir durum.
+Dialogue: 50,0:20:49.73,0:20:51.73,Main-207-,,0,0,0,,Bu gerçekten tanrının işi.
+Dialogue: 50,0:20:51.73,0:20:54.15,Main-207-,,0,0,0,,Hala yaşıyor olman şaşırtıcı.
+Dialogue: 50,0:21:04.28,0:21:05.74,Thoughts-207-,,0,0,0,,Yeri mi hareket ettirdi?
+Dialogue: 50,0:21:20.88,0:21:22.59,Main-207-,,0,0,0,,Ayin için hazırlanın!
+Dialogue: 50,0:21:22.59,0:21:25.06,Main-207-,,0,0,0,,Kurbanları sunağa götürün!
+Dialogue: 50,0:21:25.47,0:21:26.89,Main-207-,,0,0,0,,Hey, biraz daha bekleyemez miyiz?
+Dialogue: 50,0:21:26.89,0:21:28.24,Main-207-,,0,0,0,,Komodor geri dönecek!
+Dialogue: 50,0:21:28.26,0:21:30.77,Main-207-,,0,0,0,,Ona sadece iki saat daha verin. \NHayır, bir saat! Lütfen!
+Dialogue: 50,0:21:30.77,0:21:33.10,Main-207-,,0,0,0,,Neden kazıkta yakılmak zorundayız?!
+Dialogue: 50,0:21:34.90,0:21:36.61,Main-207-,,0,0,0,,Güneş batıyor.
+Dialogue: 50,0:21:36.61,0:21:38.61,Main-207-,,0,0,0,,Birazdan ayine başlayacaklar.
+Dialogue: 50,0:21:40.90,0:21:42.61,Main-207-,,0,0,0,,Acınası bir durumdasın.
+Dialogue: 50,0:21:43.37,0:21:48.20,Main-207-,,0,0,0,,Tanrıya meydan okuyan adam bu mu?
+Dialogue: 50,0:21:48.20,0:21:51.08,Main-207-,,0,0,0,,Neden korkuyorsun?
+Dialogue: 50,0:21:51.08,0:21:52.25,Main-207-,,0,0,0,,Ne?!
+Dialogue: 50,0:21:52.67,0:21:55.46,Main-207-,,0,0,0,,Soyut korkular karşısında titriyor,...
+Dialogue: 50,0:21:55.46,0:21:58.63,Main-207-,,0,0,0,,...sahte bir rahatlık duygusu için insanların hayatlarını feda ediyorsunuz!
+Dialogue: 50,0:21:58.63,0:22:00.22,Main-207-,,0,0,0,,Sahte rahatlık mı?!
+Dialogue: 50,0:22:00.67,0:22:03.55,Main-207-,,0,0,0,,Bir kurban, boş yere alınan bir yaşamdır!
+Dialogue: 50,0:22:08.89,0:22:14.02,Main-207-,,0,0,0,,Yüzlerce yıldan beri,\Nbu bizim yaşam tarzımız oldu!
+Dialogue: 50,0:22:14.02,0:22:16.61,Main-207-,,0,0,0,,Söylediğin bunu haklı çıkarmaz!
+Dialogue: 50,0:22:16.61,0:22:19.94,Main-207-,,0,0,0,,Sessizlik, yabancı!
+Dialogue: 50,0:22:21.95,0:22:25.41,Main-207-,,0,0,0,,Tanrılarınız ne kadar büyük olursa olsun,...
+Dialogue: 50,0:22:25.41,0:22:28.58,Main-207-,,0,0,0,,...insanlarının hayatı daha kutsaldır!
+Dialogue: 50,0:22:31.25,0:22:33.42,Main-207-,,0,0,0,,Kurbanları sunağa götürün!
+Dialogue: 50,0:22:33.42,0:22:36.59,Main-207-,,0,0,0,,Onları kazıkta yakın ve cennete gönderin!
+Dialogue: 50,0:22:42.01,0:22:44.05,Main-207-,,0,0,0,,Komodor!
+Dialogue: 50,0:22:44.05,0:22:46.43,Main-207-,,0,0,0,,Diri diri yanacağız!
+Dialogue: 50,0:22:48.85,0:22:51.81,Main-207-,,0,0,0,,Masum kızların ölmesine izin veriyorsunuz.
+Dialogue: 50,0:22:53.56,0:22:57.48,Main-207-,,0,0,0,,Bir arada nasıl yaşadığınızı anlayamıyorum!
+Dialogue: 50,0:22:57.86,0:23:01.28,Main-207-,,0,0,0,,Bu barbarca davranış insanlık dışı!
+Dialogue: 50,0:23:04.28,0:23:06.78,Main-207-,,0,0,0,,Öyle mi diyorsun?
+Dialogue: 50,0:23:09.12,0:23:11.37,Main-207-,,0,0,0,,Dünkü kurtardığın kız...
+Dialogue: 50,0:23:12.83,0:23:14.66,Main-207-,,0,0,0,,...öz kızım olsa bile mi?!
+Dialogue: 50,0:23:16.63,0:23:21.34,Main-207-,,0,0,0,,Nasıl? Kendi kızına hayatını feda etmesini mi emrettin?!
+Dialogue: 50,0:23:21.34,0:23:26.64,Main-207-,,0,0,0,,Sen ve tayfan, tanrının sözlerini duyan rahibin gücünü...
+Dialogue: 50,0:23:26.64,0:23:29.07,Main-207-,,0,0,0,,...asla anlayamazsınız!
+Dialogue: 50,0:23:29.72,0:23:32.18,Main-207-,,0,0,0,,Onlara itaat etmek köyümüzün kutsal görevidir!
+Dialogue: 50,0:23:32.56,0:23:35.89,Main-207-,,0,0,0,,Sırf benim kızım olduğu için onun hayatı için yalvaramam!
+Dialogue: 50,0:23:43.28,0:23:46.57,Main-207-,,0,0,0,,Öncekinden daha küçük.\NTanrı Kashi'nin oğlu mu?
+Dialogue: 50,0:23:47.86,0:23:51.45,Main-207-,,0,0,0,,Tanrının kanını döktüğün için\Nhakkındaki hükmü vermeye geldi!
+Dialogue: 50,0:23:51.91,0:23:54.16,Thoughts-207-,,0,0,0,,Kıçımın hükmü!
+Dialogue: 50,0:23:55.87,0:24:01.13,Main-207-,,0,0,0,,60 sene evvel ülkemde, \Nköyünü kasıp kavuran aynı salgın,...
+Dialogue: 50,0:24:01.13,0:24:05.84,Main-207-,,0,0,0,,...ağaç ateşi, \N100 bin insanın hayatını aldı!
+Dialogue: 50,0:24:06.22,0:24:10.80,Main-207-,,0,0,0,,Ama şimdi, tek bir insan bile bu\Nhastalıktan dolayı asla ölmeyecek!
+Dialogue: 50,0:24:11.51,0:24:13.97,Main-207-,,0,0,0,,Niye biliyor musun?!
+Dialogue: 50,0:24:14.89,0:24:18.14,Main-207-,,0,0,0,,Bir tedavi bulduk!
+Dialogue: 50,0:24:19.06,0:24:22.65,Main-207-,,0,0,0,,Sağ elimde, Kona ağacının kabuğunu tutuyorum!
+Dialogue: 50,0:24:23.15,0:24:27.49,Main-207-,,0,0,0,,Bu kabuktan koniin, yani ilaç elde edebiliriz!
+Dialogue: 50,0:24:27.95,0:24:31.87,Main-207-,,0,0,0,,Bunu götürürsek, köyün kurtulacak!
+Dialogue: 50,0:24:36.00,0:24:40.21,Main-207-,,0,0,0,,Dünyada kaç insanın bunu araştırmak için zamanını harcadığını biliyor musun?
+Dialogue: 50,0:24:40.21,0:24:44.84,Main-207-,,0,0,0,,Ya da kaç kurban verildiğini biliyor musun?
+Dialogue: 50,0:24:44.84,0:24:50.09,Main-207-,,0,0,0,,Siz bu harika gelişimi mahvediyorsunuz!
+Dialogue: 50,0:24:50.09,0:24:57.73,Main-207-,,0,0,0,,Bu yüzden ayininiz onlara hakaret!
+Dialogue: 50,0:24:58.02,0:25:04.15,Main-207-,,0,0,0,,Hükmen mi öleceğim, yoksa kazara mı?!
+Dialogue: 50,0:25:04.15,0:25:08.99,Main-207-,,0,0,0,,Köyünüz lanetten mi yoksa hastalıktan mı ölecek?!
+Dialogue: 50,0:25:08.99,0:25:13.45,Main-207-,,0,0,0,,Tanrılardan o kadar mı korkuyorsunuz?!
+Dialogue: 50,0:25:15.29,0:25:19.33,Flashbacks-207-,,0,0,0,,{\t(3144,0,1,\c&H000000&\3c&H000000&)\t(4019,4019,\alpha&HFF&)}Akıllı bir adamın sözlerini duyabilirim.
+Dialogue: 50,0:25:22.46,0:25:23.63,Main-207-,,0,0,0,,Cevap ver...
+Dialogue: 50,0:25:26.50,0:25:29.47,Main-207-,,0,0,0,,Öldürdüğüm şey nedir?
+Dialogue: 50,0:25:30.05,0:25:30.97,Main-207-,,0,0,0,,Yılan.
+Dialogue: 50,0:25:30.97,0:25:32.26,Main-207-,,0,0,0,,Yanlış!
+Dialogue: 50,0:25:32.80,0:25:37.47,Main-207-,,0,0,0,,Kutsal kuralı bozup, bir tanrı öldürdüm!
+Dialogue: 50,0:25:37.47,0:25:40.77,Main-207-,,0,0,0,,Ama yılan olduğunu söylüyorsun.
+Dialogue: 50,0:25:40.80,0:25:44.83,Main-207-,,0,0,0,,Bizim ölümcül lanetimize ise tedavi edilebilir bir hastalık, diyorsun!
+Dialogue: 50,0:25:49.19,0:25:54.57,Main-207-,,0,0,0,,Gerçekten değerli köyümü kurtaracak mısın?!
+Dialogue: 50,0:25:54.57,0:25:56.66,Main-207-,,0,0,0,,Kurtarabilir misin?!
+Dialogue: 50,0:25:57.70,0:25:59.00,Main-207-,,0,0,0,,Evet!
+Dialogue: 0,0:01:50.09,0:01:56.01,Author,,0,0,0,,{\fad(979,478)}TR: onepacetr.net\NÇV: kazasker
+Dialogue: 0,0:11:40.00,0:11:50.00,Author,,0,0,0,,{\fad(500,500)}TR: onepacetr.net \NÇV: kazasker
+Dialogue: 0,0:27:08.70,0:27:11.65,Author,,0,0,0,,{\fad(0,0)}TR: onepacetr.net \NÇV: kazasker
+Dialogue: 0,0:01:50.09,0:01:56.01,Title-207-,,0,0,0,,{\bord2\c&H181818&\3c&H181818&\1a&HFF&\blur0.6\fad(979,478)\t(938,979,\1a&H00&)\t(5442,5484,\1a&HFF&)}Tanrı Katili
+Dialogue: 1,0:01:50.09,0:01:56.01,Title-207-,,0,0,0,,{\bord0\c&HE5E6E6&\4a&HFF&\blur0.6\fad(979,478)}Tanrı Katili
+Dialogue: 1,0:04:06.35,0:04:11.65,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(480,232)}Jaya, Grand Line\N400 Yıl Önce
+Dialogue: 1,0:04:06.35,0:04:11.65,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(480,232)}Jaya, Grand Line\N400 Yıl Önce
+Dialogue: 0,0:04:06.35,0:04:11.65,Captions-207-,,0,0,0,,{\an2\bord3.5\fsp2\fscx90\fscy90\c&H252321&\1a&HFF&\blur1.3\pos(720,564)\3c&H252321&\fad(480,232)\t(438,480,\1a&H00&)\t(5068,5110,\1a&HFF&)}Jaya, Grand Line\N400 Yıl Önce
+Dialogue: 1,0:04:58.19,0:05:04.08,Captions-207-,,0,0,0,,{\an8\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,125)\fad(480,0)}Kalgara\NShandora'nın Şanlı Savaşçısı
+Dialogue: 1,0:04:58.19,0:05:04.08,Captions-207-,,0,0,0,,{\an8\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,125)\fad(480,0)}Kalgara\NShandora'nın Şanlı Savaşçısı
+Dialogue: 0,0:04:58.19,0:05:04.08,Captions-207-,,0,0,0,,{\an8\bord3.5\fsp2\fscx90\fscy90\c&H171615&\1a&HFF&\blur1.3\pos(720,125)\3c&H171615&\fad(480,0)\t(438,480,\1a&H00&)}Kalgara\NShandora'nın Şanlı Savaşçısı
+Dialogue: 1,0:05:12.00,0:05:18.55,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(479,482)}Grand Line'da bir yer...
+Dialogue: 1,0:05:12.00,0:05:18.55,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,564)\fad(479,482)}Grand Line'da bir yer...
+Dialogue: 0,0:05:12.00,0:05:18.55,Captions-207-,,0,0,0,,{\an2\bord3.5\fsp2\fscx90\fscy90\c&H252321&\1a&HFF&\blur1.3\pos(720,564)\3c&H252321&\fad(479,482)\t(437,479,\1a&H00&)\t(6068,6109,\1a&HFF&)}Grand Line'da bir yer...
+Dialogue: 1,0:06:12.48,0:06:17.44,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx75\fscy75\c&HFFFFFF&\blur1.3\pos(720,495)\fad(476,0)}Mont Blanc Noland\NKeşif Gemisi Komodoru\NLvneel Krallığı, Kuzey Mavi
+Dialogue: 1,0:06:12.48,0:06:17.44,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx75\fscy75\c&HFFFFFF&\blur1.3\pos(720,495)\fad(476,0)}Mont Blanc Noland\NKeşif Gemisi Komodoru\NLvneel Krallığı, Kuzey Mavi
+Dialogue: 0,0:06:12.48,0:06:17.44,Captions-207-,,0,0,0,,{\an2\bord3.5\fsp2\fscx75\fscy75\c&H252321&\1a&HFF&\blur1.3\pos(720,495)\3c&H252321&\fad(476,0)\t(434,476,\1a&H00&)}Mont Blanc Noland\NKeşif Gemisi Komodoru\NLvneel Krallığı, Kuzey Mavi
+Dialogue: 1,0:06:49.68,0:07:01.82,Captions-207-,,0,0,0,,{\an8\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,125)\fad(1481,0)}Jaya, Grand Line\N21 Mayıs 1222\NDeniz Çağı
+Dialogue: 1,0:06:49.68,0:07:01.82,Captions-207-,,0,0,0,,{\an8\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,125)\fad(1481,0)}Jaya, Grand Line\N21 Mayıs 1222\NDeniz Çağı
+Dialogue: 0,0:06:49.68,0:07:01.82,Captions-207-,,0,0,0,,{\an8\bord3.5\fsp2\fscx90\fscy90\c&H252321&\1a&HFF&\blur1.3\pos(720,125)\3c&H171615&\fad(1481,0)\t(1439,1481,\1a&H00}Jaya, Grand Line\N21 Mayıs 1222\NDeniz Çağı
+Dialogue: 1,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,650)\fad(481,732)}Şafak
+Dialogue: 1,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\bord0\fsp2\fscx90\fscy90\c&HFFFFFF&\blur1.3\pos(720,650)\fad(481,732)}Şafak
+Dialogue: 0,0:18:18.70,0:18:24.71,Captions-207-,,0,0,0,,{\an2\bord3.5\fsp2\fscx90\fscy90\c&H171615&\1a&HFF&\blur1.3\pos(720,650)\3c&H171615&\fad(481,732)\t(440,481,\1a&H00&)\t(5278,5320,\1a&HFF&)}Şafak
+Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Video Editing
+Dialogue: 0,0:00:46.23,0:00:50.41,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}fedew\NZenef
+Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Graphics
+Dialogue: 0,0:00:51.78,0:00:55.70,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}Datenshi\NJimmyVictus
+Dialogue: 0,0:00:56.79,0:01:01.04,Credits-207-,,0,0,0,,{\pos(540,579)\fscx100\fscy100\bord3}Quality Control
+Dialogue: 0,0:00:56.79,0:01:01.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(583.02,619.65)}Gab\NGalaxy 9000\NGol D. Rocks\NPepperjack\NScolines\NWestfal
+Dialogue: 0,0:01:01.04,0:01:07.80,Credits-207-,,0,0,0,,{\fscx100\fscy100\pos(86.67,119)\bord3}Karaoke
+Dialogue: 0,0:01:01.04,0:01:07.80,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(129.69,159.65)}KaitouYahiko\NPhosCity
+Dialogue: 0,0:01:07.80,0:01:11.80,Credits-207-,,0,0,0,,{\fscx100\fscy100\pos(86.67,119)\bord3}Soundtracking
+Dialogue: 0,0:01:07.80,0:01:11.80,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(129.69,159.65)}Halee
+Dialogue: 0,0:01:23.81,0:01:27.44,Credits-207-,,0,0,0,,{\fscx100\fscy100\pos(86.67,119)\bord3}Timing/Typesetting
+Dialogue: 0,0:01:23.81,0:01:27.44,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(129.69,159.65)}Villager
+Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(24,113)}Subtitle Editing
+Dialogue: 0,0:01:27.44,0:01:31.49,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(67.02,153.65)}CraigyBoi\NKustogg\NPollychan\NZenef
+Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx100\fscy100\bord3\pos(964,111.4)}Translation
+Dialogue: 0,0:01:33.57,0:01:37.04,Credits-207-,,0,0,0,,{\fscx120\fscy120\pos(1007.02,152.05)}Funimation\NghostDunk\NPamkinPinguin
+Dialogue: 0,0:00:17.33,0:00:20.54,Luffy Monologue,,0,0,0,,Bu denizin sonunda muhteşem bir hazine var biliyorsun değil mi?
+Dialogue: 0,0:00:20.54,0:00:23.34,Luffy Monologue,,0,0,0,,Ve onu bulan Korsanlar Kralı olacak.
+Dialogue: 0,0:00:23.34,0:00:24.96,Luffy Monologue,,0,0,0,,Çok heyecanlı değil mi?!
+Dialogue: 0,0:00:24.96,0:00:28.01,Luffy Monologue,,0,0,0,,Heyecan dolu binbir yeni macera orada bekliyor!
+Dialogue: 0,0:00:30.50,0:00:38.16,Lyrics,,0,0,0,karaoke,♪ BON VOYAGE! Cesaretin ateşini körükle ve bırak ateş büyüsün ♪
+Dialogue: 0,0:00:38.16,0:00:45.76,Lyrics,,0,0,0,karaoke,♪ Ufuğun ötesinde ne olduğunu bir anlığına gördüm ♪
+Dialogue: 0,0:00:45.88,0:00:48.31,Lyrics,,0,0,0,karaoke,♪ İlk başladığımız zaman
+Dialogue: 0,0:00:48.31,0:00:53.53,Lyrics,,0,0,0,karaoke,nereye gideceğimiz konusunda farklı fikirlerimiz vardı ♪
+Dialogue: 0,0:00:53.84,0:00:55.48,Lyrics,,0,0,0,karaoke,♪ Artık her şey değişti ♪
+Dialogue: 0,0:00:55.48,0:01:00.54,Lyrics,,0,0,0,karaoke,♪ Hayallerimize doğru baktığımızda aynı yeri görüyoruz ♪
+Dialogue: 0,0:01:00.83,0:01:05.78,Lyrics,,0,0,0,karaoke,♪ Eğer kalbin yanlış yola sürüklenmişse
+Dialogue: 0,0:01:05.78,0:01:10.08,Lyrics,,0,0,0,karaoke,pusulanı tekrar ayarlaman gerek ♪
+Dialogue: 0,0:01:10.08,0:01:13.11,Lyrics,,0,0,0,karaoke,♪ Yeni bir rota belirle, akıntıyı terse çevir ♪
+Dialogue: 0,0:01:13.11,0:01:20.40,Lyrics,,0,0,0,karaoke,♪ BON VOYAGE! Geçmişi unut, sana yük olan bavulları bırak ♪
+Dialogue: 0,0:01:20.40,0:01:27.24,Lyrics,,0,0,0,karaoke,♪ Gülümsemeler fırtınayı dindirebilir, bunu herkesten iyi biliyoruz ♪
+Dialogue: 0,0:01:27.24,0:01:29.18,Lyrics,,0,0,0,karaoke,♪ Sakın üzülme,
+Dialogue: 0,0:01:29.18,0:01:35.00,Lyrics,,0,0,0,karaoke,yolda dökülen gözyaşları beyhude değildir. ♪
+Dialogue: 0,0:01:35.00,0:01:41.20,Lyrics,,0,0,0,karaoke,♪ Biliyorsunuz hepiniz benim için çok ama çok önemlisiniz ♪
+Dialogue: 0,0:01:42.16,0:01:49.31,Lyrics,,0,0,0,karaoke,♪ Ufuğun ötesinde ne olduğunu bir anlığına gördüm ♪
+Dialogue: 0,0:27:11.71,0:27:17.23,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Kaybolmuş ve yalnız hissettiğinde, seslen ve beni yanına çağır ♪
+Dialogue: 0,0:27:17.45,0:27:22.65,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Evinden uzaklara savrulurken, gökyüzünü ararsın, asla saklanmazsın ♪
+Dialogue: 0,0:27:22.65,0:27:25.45,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Sen ay gibisin ♪
+Dialogue: 0,0:27:25.45,0:27:30.10,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Bir yıldızdan daha sakin, ışığın pırıltılardan yoksun ♪
+Dialogue: 0,0:27:33.55,0:27:42.50,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Derin bir yansıma parlar, \Nusulca kaybolup solarsın, peki bedeli ne? ♪
+Dialogue: 0,0:27:42.56,0:27:47.73,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Olduğun gibi kal, yolunu kaybetme ♪
+Dialogue: 0,0:27:47.73,0:27:56.04,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Sözlerim yol göstersin sana, ileri bak gün doğana dek! ♪
+Dialogue: 0,0:27:56.68,0:28:02.93,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Hayallerinden vazgeçme, \Nsonsuz gecelerde onlar sana gelir ♪
+Dialogue: 0,0:28:02.93,0:28:08.55,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Vazgeçersen, ışıldadıklarını göremezsin asla! ♪
+Dialogue: 0,0:28:08.59,0:28:14.32,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Geri döner misin? Belki dönmezsin... Öğrenir misin? Umarım öğrenirsin ♪
+Dialogue: 0,0:28:14.32,0:28:20.71,Lyrics-End,,0,0,0,,{\fad(200,200)}♪ Lütfen geçmişini geride bırak ve hayatını yeniden yaşa. ♪

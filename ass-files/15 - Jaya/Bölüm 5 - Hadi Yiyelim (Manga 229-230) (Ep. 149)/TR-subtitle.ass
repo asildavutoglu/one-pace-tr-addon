@@ -1,0 +1,409 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Narrator-207-,Impress BT Pace,75.0,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,2.5,2.5,8,180,180,27,1
+Style: Main-207-,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,180,180,27,1
+Style: Captions-207-,Gilroy-Bold,70.0,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,16,16,27,1
+Style: Thoughts-207-,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,3.0,2.5,2,180,180,27,1
+Style: Credits-207-,FOT-Greco Std B Strp,43,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,95,100,1.6,0,1,5,0,7,16,16,16,1
+Style: Secondary-207-,Impress BT Pace,75.0,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,180,180,27,1
+Style: Title-207-,Gilroy-Bold,90.0,&H00FEFEFE,&H00002EFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,15,15,383,1
+Style: Flashbacks-207-,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,180,180,27,1
+Style: Translation,Futura Md BT,60.0,&H00B95D1D,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2.2,0,1,3.5,0,2,23,23,23,1
+Style: Roger Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2.5,2.5,2,180,180,27,1
+Style: Author,Impress BT,30.0,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.1,1.0,9,10,10,10,1
+Style: Attack,Dry Brush,48.0,&H0086ECFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,1.7,1.7,7,20,20,15,1
+Style: Note,Impress BT,50.0,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,-1,0,0,100,100,0,0,1,2.3,2.3,8,180,180,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 50,0:01:54.51,0:01:56.10,Main-207-,,0,0,0,,Bize ne söylemek istiyorsun?
+Dialogue: 50,0:01:56.93,0:02:03.27,Main-207-,,0,0,0,,Size gökyüzü adası ile ilgili bildiğim her şeyi anlatacağım.
+Dialogue: 50,0:02:03.27,0:02:07.65,Main-207-,,0,0,0,,{\q2}Bunlar kanıtlanmış şeyler değil \No yüzden inanıp inanmamak size kalmış!
+Dialogue: 50,0:02:07.65,0:02:09.32,Main-207-,,0,0,0,,Tamam, sana inanıyoruz.
+Dialogue: 50,0:02:09.32,0:02:10.11,Main-207-,,0,0,0,,Dur hele!
+Dialogue: 50,0:02:10.11,0:02:14.03,Main-207-,,0,0,0,,Buralarda garip bir doğa olayı olur..
+Dialogue: 50,0:02:14.03,0:02:18.12,Main-207-,,0,0,0,,Bazen gündüz vakti bir anda gece olur.
+Dialogue: 50,0:02:18.62,0:02:21.75,Main-207-,,0,0,0,,Evet! Bunu görmüştük, değil mi?
+Dialogue: 50,0:02:21.75,0:02:26.52,Main-207-,,0,0,0,,Evet! Karanlık çöktü ve bazı yaratıklar ortaya çıktı!
+Dialogue: 50,0:02:28.04,0:02:29.55,Main-207-,,0,0,0,,Devleri mi kastediyorsunuz?
+Dialogue: 50,0:02:29.55,0:02:33.88,Main-207-,,0,0,0,,Onların ne olduğuna dair bir teori var ama ona sonra geliriz.
+Dialogue: 50,0:02:33.88,0:02:36.53,Main-207-,,0,0,0,,Bu ani karanlık çökmesine...
+Dialogue: 50,0:02:39.64,0:02:42.89,Main-207-,,0,0,0,,yoğunlukları yüksek bulutların gölgeleri sebep oluyor.
+Dialogue: 50,0:02:42.89,0:02:44.77,Main-207-,,0,0,0,,Kümülonimbüs \Nbulutlarını mı kastediyorsun?
+Dialogue: 50,0:02:44.77,0:02:47.23,Main-207-,,0,0,0,,Ama bulut gölgeleri olması için fazla karanlıktı!
+Dialogue: 50,0:02:47.23,0:02:49.77,Main-207-,,0,0,0,,Off! Ne kadar aptalsın kestane kafa!
+Dialogue: 50,0:02:49.77,0:02:52.15,Main-207-,,0,0,0,,Havada bulut olduğu zaman hava {\i1}bulutlu{\i0} olur {\i1}gece{\i0} olmaz ki.
+Dialogue: 50,0:02:52.15,0:02:53.25,Main-207-,,0,0,0,,Evet bulutlu olur!
+Dialogue: 50,0:02:53.25,0:02:54.20,Main-207-,,0,0,0,,Bulutlu!
+Dialogue: 50,0:02:54.20,0:02:55.53,Main-207-,,0,0,0,,Susun da dinleyin!
+Dialogue: 50,0:02:56.61,0:03:00.08,Main-207-,,0,0,0,,{\q2}Ayrıca gökyüzünde \N"İmparator Kümülüs" adında bulutlar var.
+Dialogue: 50,0:03:00.08,0:03:05.58,Main-207-,,0,0,0,,{\q2\fs77}Üst üst binerek gökyüzünün yükseklerine doğru \Nuzanıyorlar, hava akımı ve yağmur üretmiyorlar.
+Dialogue: 50,0:03:05.58,0:03:10.92,Main-207-,,0,0,0,,Oluştuklarında güneş ışınlarını tamamen kesiyorlar.
+Dialogue: 50,0:03:10.92,0:03:13.17,Main-207-,,0,0,0,,Ve karanlık çöküyor.
+Dialogue: 50,0:03:13.67,0:03:17.26,Main-207-,,0,0,0,,Bir teoriye göre \Nİmparator Kümülüs Bulutları,
+Dialogue: 50,0:03:17.26,0:03:21.43,Main-207-,,0,0,0,,{\q2}binlerce yıldır bozunmadan \Ngökyüzünde dolaşan fosilleşmiş bulutlardır.
+Dialogue: 50,0:03:21.43,0:03:23.35,Main-207-,,0,0,0,,Saçmalık bu!
+Dialogue: 50,0:03:23.35,0:03:26.06,Main-207-,,0,0,0,,Yağmur ve hava akımı üretmeyen bulutlar mı?
+Dialogue: 50,0:03:26.56,0:03:29.06,Main-207-,,0,0,0,,İnanıp inanmamak size kalmış.
+Dialogue: 50,0:03:29.06,0:03:31.57,Main-207-,,0,0,0,,Bana inanmanızı beklemiyorum, bu sadece bir teori!
+Dialogue: 50,0:03:31.57,0:03:33.74,Main-207-,,0,0,0,,Yani gizemli bulutar ha?
+Dialogue: 50,0:03:34.11,0:03:37.24,Main-207-,,0,0,0,,Kısaca öyle. Hala tam olarak açıklanamıyorlar.
+Dialogue: 50,0:03:37.24,0:03:38.66,Main-207-,,0,0,0,,Çok akıllısın, Luffy!
+Dialogue: 50,0:03:38.66,0:03:42.83,Main-207-,,0,0,0,,Dikkatli dinleyin. Eğer bir gökyüzü adası gerçekten varsa...
+Dialogue: 50,0:03:42.83,0:03:44.62,Main-207-,,0,0,0,,{\i1}bu{\i0} bulutların üstünde olmalı.
+Dialogue: 50,0:03:44.62,0:03:47.79,Main-207-,,0,0,0,,Tamam, anladım! \NHadi bulutların üstüne yelken açalım!
+Dialogue: 50,0:03:47.79,0:03:49.63,Main-207-,,0,0,0,,Hadi canlan, Zoro!
+Dialogue: 50,0:03:48.75,0:03:49.63,Secondary-207-,,0,0,0,,Ha? Sabah mı oldu?
+Dialogue: 50,0:03:49.63,0:03:51.42,Main-207-,,0,0,0,,Hazırlanın millet!
+Dialogue: 50,0:03:51.42,0:03:52.59,Main-207-,,0,0,0,,Bulutlara doğru tam yol ileri!
+Dialogue: 50,0:03:51.88,0:03:52.59,Secondary-207-,,0,0,0,,Ha?
+Dialogue: 50,0:03:50.20,0:03:52.59,Secondary-207-,,0,0,0,,{\an8}Bulutlara doğru tam yol ileri!
+Dialogue: 50,0:03:53.38,0:03:57.18,Secondary-207-,,0,0,0,,{\an8}Bulutlara doğru tam yol ileri!
+Dialogue: 50,0:03:57.18,0:03:58.55,Secondary-207-,,0,0,0,,{\an8}Bulutlara doğru tam yol ileri!
+Dialogue: 50,0:03:53.05,0:03:56.26,Main-207-,,0,0,0,,Bilgilendirme için teşekkürler, \Nkestane kafa!
+Dialogue: 50,0:03:56.26,0:03:58.55,Main-207-,,0,0,0,,Daha kaç kere söyleyeceğim? Oraya nasıl gideceğimizi bilmiyoruz!
+Dialogue: 50,0:04:00.43,0:04:01.81,Main-207-,,0,0,0,,Şimdi asıl soruna gelelim;
+Dialogue: 50,0:04:01.81,0:04:03.90,Main-207-,,0,0,0,,Her şeyden önce, \Nhayatınızı riske atıyor olacaksınız!
+Dialogue: 50,0:04:03.90,0:04:05.52,Main-207-,,0,0,0,,– Zaten öldük sayılır...\N– Zaten öldük sayılır...
+Dialogue: 50,0:04:05.52,0:04:09.85,Main-207-,,0,0,0,,Fırlatan Akıntı, deniz yüzeyinden yukarı doğru çıkan bir akıntıdır...
+Dialogue: 50,0:04:09.85,0:04:13.82,Main-207-,,0,0,0,,yani teorik olarak onu kullanarak gökyüzüne çıkabilirsiniz. Anladınız mı?
+Dialogue: 50,0:04:13.82,0:04:17.82,Main-207-,,0,0,0,,Gemileri gökyüzüne fırlatan akıntı o, değil mi?
+Dialogue: 50,0:04:17.82,0:04:20.78,Main-207-,,0,0,0,,Güzel! O halde onu kullanıp bulutların üstüne çıkacağız!
+Dialogue: 50,0:04:24.41,0:04:25.79,Main-207-,,0,0,0,,Akıntının üzerinde mi?
+Dialogue: 50,0:04:25.79,0:04:30.21,Main-207-,,0,0,0,,Ama denize geri düşmez miyiz?
+Dialogue: 50,0:04:30.21,0:04:33.80,Main-207-,,0,0,0,,Normalde evet. Zamanlamanız çok önemli.
+Dialogue: 50,0:04:33.80,0:04:39.09,Main-207-,,0,0,0,,Kulağa kolay geliyor ama...
+Dialogue: 50,0:04:39.09,0:04:43.35,Main-207-,,0,0,0,,işin aslı öyle değil.
+Dialogue: 50,0:04:45.52,0:04:48.81,Main-207-,,0,0,0,,Fırlatan Akıntı, doğal bir felakettir.
+Dialogue: 50,0:04:48.81,0:04:51.85,Main-207-,,0,0,0,,Normalde ne olursa olsun kaçınılması gereken bir doğa olayıdır!
+Dialogue: 50,0:04:53.23,0:04:56.94,Main-207-,,0,0,0,,Deniz tam olarak nasıl göğe doğru akıntı oluşturuyor?
+Dialogue: 50,0:04:56.94,0:05:00.91,Main-207-,,0,0,0,,Daha önce hiç böyle bir şey duymamıştık...
+Dialogue: 50,0:05:04.45,0:05:09.54,Main-207-,,0,0,0,,Bu korkunç akıntının nasıl oluştuğuyla ilgili sadece tahmin yapabiliriz.
+Dialogue: 50,0:05:09.54,0:05:12.88,Main-207-,,0,0,0,,Kimse içine girip öğrenecek kadar aptal değil elbette.
+Dialogue: 50,0:05:12.88,0:05:14.84,Main-207-,,0,0,0,,Kabul edilen teori şu şekilde:
+Dialogue: 50,0:05:19.26,0:05:22.68,Main-207-,,0,0,0,,Denizin tabanını oluşturan \Nyer kabuğunda devasa çukurlar var,
+Dialogue: 50,0:05:22.68,0:05:25.97,Main-207-,,0,0,0,,soğuk deniz suyu, \Ndenizden bu boşluklara sızıyor.
+Dialogue: 50,0:05:25.97,0:05:29.77,Main-207-,,0,0,0,,{\q2}Sonrasında yer kabuğunun altındaki magma\Nbu suyu ısıtıp buhar haline getiriyor,
+Dialogue: 50,0:05:29.77,0:05:33.06,Main-207-,,0,0,0,,ve oluşan yüksek basınç sebebiyle deniz tabanında bir patlama oluyor.
+Dialogue: 50,0:05:33.06,0:05:39.07,Main-207-,,0,0,0,,{\q2}Bu patlamalar o kadar büyük ki denizden \Ngöğe doğru bir akıntı oluşturuyorlar!
+Dialogue: 50,0:05:41.32,0:05:46.28,Main-207-,,0,0,0,,Yaklaşık bir dakika boyunca deniz gökyüzüne doğru yükseliyor.
+Dialogue: 50,0:05:46.28,0:05:47.91,Main-207-,,0,0,0,,Bir dakika boyunca mı?!
+Dialogue: 50,0:05:47.91,0:05:51.00,Main-207-,,0,0,0,,Patlamalar devasa boyutlarda olmalı!
+Dialogue: 50,0:05:51.00,0:05:54.96,Main-207-,,0,0,0,,Patlamalar ayda 5 kere farklı noktalarda gerçekleşiyor.
+Dialogue: 50,0:05:55.96,0:05:58.50,Main-207-,,0,0,0,,{\q2}Bizi paramparça etmek mi istiyorsun...?!
+Dialogue: 50,0:05:59.13,0:06:00.51,Main-207-,,0,0,0,,Ancak kabul edelim ki...
+Dialogue: 50,0:06:00.51,0:06:05.85,Main-207-,,0,0,0,,{\q2}böyle görkemli bir doğa olayını mantığa \Noturtup kelimelerle açıklamak aptalca.
+Dialogue: 50,0:06:05.85,0:06:07.60,Main-207-,,0,0,0,,Y-yani diyorsun ki,
+Dialogue: 50,0:06:07.60,0:06:11.85,Main-207-,,0,0,0,,ayda 5 kere çıkan bu akıntıya atlayıp,
+Dialogue: 50,0:06:11.85,0:06:13.85,Main-207-,,0,0,0,,{\q2}gökyüzü adasının \Norada olduğunu mu ummalıyız?
+Dialogue: 50,0:06:13.85,0:06:22.84,Main-207-,,0,0,0,,Evet. Adayı ıskalarsanız düşüp denize çakılırsınız...
+Dialogue: 50,0:06:22.84,0:06:25.66,Main-207-,,0,0,0,,ve denizin dibini boylarsınız.
+Dialogue: 50,0:06:27.24,0:06:30.21,Main-207-,,0,0,0,,A-anlaşıldı! Bu gökyüzü adası işini unutalım!
+Dialogue: 50,0:06:32.06,0:06:34.05,Main-207-,,0,0,0,,Bu imkansız!
+Dialogue: 50,0:06:34.05,0:06:39.89,Main-207-,,0,0,0,,Dünyanın en şanslı insanı olman lazım!
+Dialogue: 50,0:06:41.74,0:06:43.86,Main-207-,,0,0,0,,Bir şey olmaz! Hadi gidelim!
+Dialogue: 50,0:06:43.86,0:06:44.76,Main-207-,,0,0,0,,Biliyordum...
+Dialogue: 50,0:06:44.76,0:06:49.26,Main-207-,,0,0,0,,"Bir şey olmaz" mı? Kendi dediğine inanıyor musun cidden?!
+Dialogue: 50,0:06:49.26,0:06:52.31,Main-207-,,0,0,0,,{\i1}Going Merry{\i0}'nin haline bir baksana!
+Dialogue: 50,0:06:52.31,0:06:54.31,Main-207-,,0,0,0,,Zar zor ayakta duruyor!
+Dialogue: 50,0:06:54.31,0:06:58.19,Main-207-,,0,0,0,,Bu haliyle böyle bir şeye hayatta dayanamaz!
+Dialogue: 50,0:06:58.19,0:07:03.03,Main-207-,,0,0,0,,Haklısın. Yepyeni olsa bile o gemi buna dayanamaz.
+Dialogue: 50,0:07:03.03,0:07:04.28,Main-207-,,0,0,0,,Ne diyorsun be?!
+Dialogue: 50,0:07:04.28,0:07:06.38,Main-207-,,0,0,0,,Hız, ağırlık, dayanıklılık...
+Dialogue: 50,0:07:06.38,0:07:10.42,Main-207-,,0,0,0,,Bu gemi patlamada paramparça olur.
+Dialogue: 50,0:07:10.42,0:07:14.92,Main-207-,,0,0,0,,Ama... Değil mi? \NBöyle... Olmaz... Yine de...
+Dialogue: 50,0:07:14.92,0:07:17.26,Main-207-,,0,0,0,,Ancak endişelenmeyin.
+Dialogue: 50,0:07:17.26,0:07:20.71,Main-207-,,0,0,0,,Masira ve Shojo ile birlikte oraya gitmenize yardımcı olacağız.
+Dialogue: 50,0:07:20.71,0:07:23.88,Main-207-,,0,0,0,,Geminizi güçlendirdikten sonra elbette.
+Dialogue: 50,0:07:23.88,0:07:26.29,Main-207-,,0,0,0,,– Evet, bu işi bize bırakın!\N– Evet, bu işi bize bırakın!
+Dialogue: 50,0:07:26.29,0:07:27.78,Main-207-,,0,0,0,,Teşekkürler çocuklar!
+Dialogue: 50,0:07:27.78,0:07:30.35,Thoughts-207-,,0,0,0,,– Bize sormadılar bile...\N– Bize sormadılar bile...
+Dialogue: 50,0:07:31.29,0:07:33.33,Main-207-,,0,0,0,,Anlamıyor musun?!
+Dialogue: 50,0:07:33.33,0:07:33.94,Main-207-,,0,0,0,,Neyi?
+Dialogue: 50,0:07:33.94,0:07:35.64,Main-207-,,0,0,0,,Öncelikle...
+Dialogue: 50,0:07:35.64,0:07:40.69,Main-207-,,0,0,0,,Bu adada en fazla \N1 gün daha kalabiliriz!
+Dialogue: 50,0:07:40.69,0:07:45.01,Main-207-,,0,0,0,,Ondan sonra Seyir Pusulası bir sonraki adayı göstermeye başlayacak!
+Dialogue: 50,0:07:45.01,0:07:48.36,Main-207-,,0,0,0,,Evet evet, haklısın! Yeterince vaktimiz yok!
+Dialogue: 50,0:07:48.36,0:07:51.02,Main-207-,,0,0,0,,Baksana babalık, \Nsen kahin falan değilsin sonuçta!
+Dialogue: 50,0:07:51.02,0:07:52.69,Main-207-,,0,0,0,,Fırlatan Akıntı ve \Nİmparator Kümülüs Bulutları
+Dialogue: 50,0:07:52.69,0:07:58.26,Main-207-,,0,0,0,,kim bilir ne zaman aynı hizaya gelecekler?
+Dialogue: 50,0:07:58.26,0:08:03.27,Main-207-,,0,0,0,,Belki aylar, hatta yıllar sürebilir!
+Dialogue: 50,0:08:03.27,0:08:06.84,Main-207-,,0,0,0,,{\q2}Yarın öğleden sonra. Eğer gidecekseniz \Nhazırlanmaya başlasanız iyi olur!
+Dialogue: 50,0:08:06.84,0:08:08.63,Main-207-,,0,0,0,,Hayatta yetişemeyiz!
+Dialogue: 50,0:08:08.63,0:08:11.85,Main-207-,,0,0,0,,Eğer bu işe bu kadar karşıysan, sen gitme!
+Dialogue: 50,0:08:13.60,0:08:15.77,Main-207-,,0,0,0,,Yalan söylüyorsun!
+Dialogue: 50,0:08:15.77,0:08:20.98,Main-207-,,0,0,0,,Sence de daha yeni tanıştığın insanlara biraz fazla yardımcı olmuyor musun?
+Dialogue: 50,0:08:20.98,0:08:22.73,Main-207-,,0,0,0,,Ayrıca...!
+Dialogue: 50,0:08:22.73,0:08:23.89,Main-207-,,0,0,0,,Bekle, Usopp!
+Dialogue: 50,0:08:23.89,0:08:25.32,Main-207-,,0,0,0,,Sen bir dur, Luffy!
+Dialogue: 50,0:08:25.82,0:08:27.65,Main-207-,,0,0,0,,Bize diyorsun ki...
+Dialogue: 50,0:08:27.65,0:08:31.28,Main-207-,,0,0,0,,bu efsanevi "Gökyüzü Adası"na gitmek için mükemmel zamanlama
+Dialogue: 50,0:08:31.28,0:08:32.95,Main-207-,,0,0,0,,ilginç bir şekilde yarına denk geliyor!
+Dialogue: 50,0:08:32.95,0:08:37.27,Main-207-,,0,0,0,,{\q2\fs75}Bir de üstüne gemimizi güçlendirmeye yardım edip \Nbizi akıntının oluşacağı yere götüreceksin ha?!
+Dialogue: 50,0:08:37.27,0:08:38.91,Main-207-,,0,0,0,,Bütün bunların gerçek olması saçmalık!
+Dialogue: 50,0:08:38.91,0:08:41.00,Main-207-,,0,0,0,,Aslında ne planlıyorsun?!
+Dialogue: 50,0:08:41.00,0:08:47.13,Main-207-,,0,0,0,,Ayrıca sen Yalancı Noland'ın soyundansın! Sana nasıl güvenelim?!
+Dialogue: 50,0:08:49.76,0:08:53.00,Main-207-,,0,0,0,,– Patron! Akşam yemeği hazır!\N– Patron! Akşam yemeği hazır!
+Dialogue: 50,0:08:53.00,0:08:53.94,Main-207-,,0,0,0,,Çekilin!
+Dialogue: 50,0:08:53.94,0:08:57.18,Main-207-,,0,0,0,,Nami-swan! Akşam yemeği–
+Dialogue: 50,0:08:59.44,0:09:01.85,Main-207-,,0,0,0,,N-ne bakıyorsun?! Beni mi döveceksin?!
+Dialogue: 50,0:09:01.85,0:09:05.70,Main-207-,,0,0,0,,Masira'nın sularında gündüz karanlık çökmesi görüldüğünde,
+Dialogue: 50,0:09:05.70,0:09:11.45,Main-207-,,0,0,0,,ertesi gün İmparator Kümülüs Bulutları güney yönünde ortaya çıkar.
+Dialogue: 50,0:09:11.45,0:09:13.64,Main-207-,,0,0,0,,Ayda 5 kere olduğunu düşünürsek,
+Dialogue: 50,0:09:13.64,0:09:17.96,Main-207-,,0,0,0,,Fırlatan Akıntı muhtemelen yarın aktif olacaktır.
+Dialogue: 50,0:09:17.96,0:09:20.99,Main-207-,,0,0,0,,Buranın güneyinde oluşacak.
+Dialogue: 50,0:09:20.99,0:09:26.88,Main-207-,,0,0,0,,Bu söylediğim kesin değil ama yüksek ihtimalle yarın bu işin tam vakti!
+Dialogue: 50,0:09:32.84,0:09:36.85,Main-207-,,0,0,0,,Sizin gibi aptallarla tanıştığım için mutluyum.
+Dialogue: 50,0:09:38.77,0:09:44.27,Main-207-,,0,0,0,,Hadi gidip bir şeyler yiyelim!\NBugün sizi misafir edeyim...
+Dialogue: 50,0:09:44.27,0:09:45.78,Main-207-,,0,0,0,,yoldaşlarım!
+Dialogue: 50,0:09:48.86,0:09:50.91,Main-207-,,0,0,0,,Yemek! Acele et, Usopp!
+Dialogue: 50,0:09:50.91,0:09:52.14,Main-207-,,0,0,0,,Evet! Hadi gel!
+Dialogue: 50,0:09:52.14,0:09:54.10,Main-207-,,0,0,0,,Chopper! Robin-chan'ı çağır!
+Dialogue: 50,0:09:54.10,0:09:55.37,Main-207-,,0,0,0,,Tamam!
+Dialogue: 50,0:09:56.83,0:10:01.47,Main-207-,,0,0,0,,Görünüşe göre elimizden geleni yapıp,
+Dialogue: 50,0:10:01.47,0:10:03.79,Main-207-,,0,0,0,,gerisini şansa bırakmak dışında bir seçeneğimiz yok...
+Dialogue: 50,0:10:03.79,0:10:07.21,Main-207-,,0,0,0,,Nami, sence ben acınası bir korkak mıyım?
+Dialogue: 50,0:10:07.21,0:10:09.15,Main-207-,,0,0,0,,"Aptal"ı eklemeyi unuttun.
+Dialogue: 50,0:10:09.15,0:10:13.21,Main-207-,,0,0,0,,Nasıl hissettiğini biliyorum. Hadi git özür dile.
+Dialogue: 50,0:10:15.43,0:10:17.80,Main-207-,,0,0,0,,Özür dilerim bayım!
+Dialogue: 50,0:10:17.80,0:10:22.33,Main-207-,,0,0,0,,{\fad(0,800)}Ne oluyor...?! İğrenç!\NBurnunu üstüme silme!
+Dialogue: 50,0:10:27.94,0:10:30.78,Main-207-,,0,0,0,,Bugün içkilerin tadı bir başka iyi!
+Dialogue: 50,0:10:30.78,0:10:34.59,Main-207-,,0,0,0,,Yiyin yiyin! Daha çok balığımız var!
+Dialogue: 50,0:10:34.59,0:10:35.38,Main-207-,,0,0,0,,Al!
+Dialogue: 50,0:10:36.06,0:10:39.70,Main-207-,,0,0,0,,Al sana yağmacı serseri!\Nİşte bu acı bombası!
+Dialogue: 50,0:10:39.70,0:10:42.29,Main-207-,,0,0,0,,Uzun burunlu şerefsiz...!
+Dialogue: 50,0:10:43.25,0:10:45.08,Main-207-,,0,0,0,,Hey güzelim, gel de içkimi tazele!
+Dialogue: 50,0:10:45.67,0:10:47.75,Secondary-207-,,0,0,0,,{\an8}Beni yiyecek!
+Dialogue: 50,0:10:45.08,0:10:49.13,Main-207-,,0,0,0,,Nami-san, hayatta sana içki servisi yapmaz!
+Dialogue: 50,0:10:53.17,0:10:55.05,Secondary-207-,,0,0,0,,{\an8}Dur, yaklaşma! Yapma!
+Dialogue: 50,0:10:55.05,0:10:56.25,Secondary-207-,,0,0,0,,{\an8}Benim sıram!
+Dialogue: 50,0:10:57.40,0:10:58.51,Secondary-207-,,0,0,0,,{\an8}Hey, hey, hey!
+Dialogue: 50,0:10:58.10,0:11:00.43,Main-207-,,0,0,0,,"Kafatasının sağ gözünde...
+Dialogue: 50,0:11:00.95,0:11:02.76,Main-207-,,0,0,0,,...altın gördüm!"
+Dialogue: 50,0:11:02.76,0:11:03.35,Thoughts-207-,,0,0,0,,Altın mı?!
+Dialogue: 50,0:11:06.85,0:11:12.32,Main-207-,,0,0,0,,Bu üzücü cümle Noland'ın yazdığı son şeydi.
+Dialogue: 50,0:11:12.32,0:11:16.18,Main-207-,,0,0,0,,{\q2}"Kafatasının sağ gözünde altın gördüm!"
+Dialogue: 50,0:11:16.18,0:11:19.20,Main-207-,,0,0,0,,Noland aynı gün idam edildi.
+Dialogue: 50,0:11:19.20,0:11:23.52,Main-207-,,0,0,0,,Jaya'ya gelsem de bu cümlenin anlamını çözemedim.
+Dialogue: 50,0:11:23.52,0:11:25.21,Main-207-,,0,0,0,,"Kafatasının sağ gözü..."
+Dialogue: 50,0:11:25.21,0:11:28.92,Main-207-,,0,0,0,,Zamanın kumları arasında kaybolmuş antik bir şehri mi kastediyordu,
+Dialogue: 50,0:11:28.92,0:11:31.50,Main-207-,,0,0,0,,yoksa kendi ölümüne bir dokundurma mıydı acaba?
+Dialogue: 50,0:11:31.50,0:11:35.26,Main-207-,,0,0,0,,Sonraki sayfalar boş...
+Dialogue: 50,0:11:35.26,0:11:37.29,Main-207-,,0,0,0,,Bu yüzden denize dalıyoruz!
+Dialogue: 50,0:11:37.29,0:11:40.22,Main-207-,,0,0,0,,Çünkü hayallerimiz denizin tabanında yatıyor!
+Dialogue: 50,0:11:41.18,0:11:42.95,Main-207-,,0,0,0,,Aynen öyle!
+Dialogue: 50,0:11:44.93,0:11:47.85,Main-207-,,0,0,0,,Uçacağız!
+Dialogue: 50,0:11:47.85,0:11:50.92,Main-207-,,0,0,0,,Böyle yemeye devam edersen hiçbir yere uçamayacağız!
+Dialogue: 50,0:11:55.47,0:11:59.06,Main-207-,,0,0,0,,Çok karanlık ama görebiliyorum, Bellamy.
+Dialogue: 50,0:11:59.06,0:12:01.03,Main-207-,,0,0,0,,Karaya çıkmaya hazırlanın.
+Dialogue: 50,0:12:01.03,0:12:05.46,Main-207-,,0,0,0,,Bu salak hayalperestler en kötüsünü hak ediyor!
+Dialogue: 50,0:12:06.77,0:12:12.75,Main-207-,,0,0,0,,"Jaya'ya vardığım gün.\NMayıs 21, 1122."
+Dialogue: 50,0:12:12.75,0:12:15.09,Main-207-,,0,0,0,,– ♪ Noland! Noland! ♪\N– ♪ Noland! Noland! ♪
+Dialogue: 50,0:12:15.09,0:12:18.22,Main-207-,,0,0,0,,Karaya ulaştığımızda garip kuş sesleri duyduk...
+Dialogue: 50,0:12:18.22,0:12:24.63,Main-207-,,0,0,0,,ve ormandan dev bir çanın sesi geldi.
+Dialogue: 50,0:12:24.63,0:12:30.46,Main-207-,,0,0,0,,O devasa altın çanın sesi her yerde yankılandı.
+Dialogue: 50,0:12:30.46,0:12:35.07,Main-207-,,0,0,0,,Sanki çok eskiden var olmuş bir şehrin görkemini ilan ediyordu!
+Dialogue: 50,0:12:35.07,0:12:40.99,Main-207-,,0,0,0,,Birkaç onyıl yaşayıp dünyayı bildiğimizi sanıyorduk...
+Dialogue: 50,0:12:40.99,0:12:43.58,Main-207-,,0,0,0,,– ♪ Noland! Noland! ♪\N– ♪ Noland! Noland! ♪
+Dialogue: 50,0:12:43.58,0:12:47.41,Main-207-,,0,0,0,,{\q2}...ama bir zamanlar filizlenmiş bu medeniyetin \Nbile gelip geçici olduğuyla yüzleşince
+Dialogue: 50,0:12:47.41,0:12:51.04,Main-207-,,0,0,0,,sonsuz okyanusun ortasında kelimeler kifayetsiz kalmıştı!
+Dialogue: 50,0:12:51.04,0:12:54.94,Main-207-,,0,0,0,,O çan sesi bizi olduğumuz yere mıhlamıştı!
+Dialogue: 50,0:12:57.63,0:12:59.61,Main-207-,,0,0,0,,Noland, ne kadar havalı!
+Dialogue: 50,0:13:00.59,0:13:03.59,Main-207-,,0,0,0,,Vaay! Altından dev bir çan!
+Dialogue: 50,0:13:03.59,0:13:07.31,Main-207-,,0,0,0,,Dur bir dakika babalık! \NNoland'ı sen de seviyorsun itiraf et!
+Dialogue: 50,0:13:08.77,0:13:10.35,Main-207-,,0,0,0,,Şuna bakın!
+Dialogue: 50,0:13:10.35,0:13:12.77,Main-207-,,0,0,0,,Vaay! Altın bir çan!
+Dialogue: 50,0:13:12.77,0:13:15.69,Main-207-,,0,0,0,,Pek de "devasa" görünmüyor.
+Dialogue: 50,0:13:15.69,0:13:21.22,Main-207-,,0,0,0,,Bunlar hikayedeki geçen çan değil, sadece çan haline getirilmiş külçeler.
+Dialogue: 50,0:13:21.22,0:13:23.12,Main-207-,,0,0,0,,Bu üçünü denizin dibinde bulduk.
+Dialogue: 50,0:13:23.12,0:13:24.20,Main-207-,,0,0,0,,Külçe mi?
+Dialogue: 50,0:13:24.20,0:13:26.58,Main-207-,,0,0,0,,Oh! O zaman \NAltın Şehir gerçekten var!
+Dialogue: 50,0:13:26.58,0:13:29.01,Main-207-,,0,0,0,,Bunlar bir şeyi kanıtlamaz.
+Dialogue: 50,0:13:29.01,0:13:33.13,Main-207-,,0,0,0,,Herhangi bir harabede öyle altınlar bulabilirsin.
+Dialogue: 50,0:13:33.13,0:13:37.13,Main-207-,,0,0,0,,Ama bir zamanlar burada bir menedeniyetin olduğunu kanıtlar.
+Dialogue: 50,0:13:37.13,0:13:41.09,Main-207-,,0,0,0,,Külçelerin standart bir ağırlığı vardır.
+Dialogue: 50,0:13:41.09,0:13:43.97,Main-207-,,0,0,0,,Yani eskiden ticaret için kullanıldıkları manasına geliyor.
+Dialogue: 50,0:13:43.97,0:13:47.82,Main-207-,,0,0,0,,Evet ve defterde geçen garip kuş sesi...
+Dialogue: 50,0:13:47.82,0:13:48.85,Main-207-,,0,0,0,,Hey, Masira!
+Dialogue: 50,0:13:48.85,0:13:49.93,Main-207-,,0,0,0,,Evet!
+Dialogue: 50,0:13:51.39,0:13:52.72,Main-207-,,0,0,0,,Vaay! Daha da mı var?!
+Dialogue: 50,0:13:52.72,0:13:53.85,Main-207-,,0,0,0,,Bu kocaman!
+Dialogue: 50,0:13:53.85,0:13:55.01,Main-207-,,0,0,0,,Hepsi bu kadar!
+Dialogue: 50,0:13:55.01,0:13:57.27,Main-207-,,0,0,0,,Vaay! Ne kadar görkemli!
+Dialogue: 50,0:13:57.27,0:13:59.09,Main-207-,,0,0,0,,Altın çanlar ve bir kuş...
+Dialogue: 50,0:13:59.09,0:14:02.61,Main-207-,,0,0,0,,Jaya'nın eski sembolleri olduklarını mı düşünüyorsun?
+Dialogue: 50,0:14:03.34,0:14:07.58,Main-207-,,0,0,0,,Tam emin değilim ama \Nbüyük bir heykelin parçalarılar galiba.
+Dialogue: 50,0:14:07.58,0:14:12.43,Main-207-,,0,0,0,,Bu kuşa güney kuşu denir, \Nbugün bile hala bu adada yaşarlar!
+Dialogue: 50,0:14:12.43,0:14:14.64,Main-207-,,0,0,0,,Oh! Ötüşleri garip midir?
+Dialogue: 50,0:14:14.64,0:14:16.71,Main-207-,,0,0,0,,Evet. Aynı seyir defterinde söylediği gibi!
+Dialogue: 50,0:14:16.71,0:14:21.08,Main-207-,,0,0,0,,Denizciler, güney kuşlarını eski zamanlardan beri-
+Dialogue: 50,0:14:23.76,0:14:25.09,Main-207-,,0,0,0,,Oh, lanet olsun!
+Dialogue: 50,0:14:25.09,0:14:26.47,Main-207-,,0,0,0,,Ne oldu?! Sorun nedir?!
+Dialogue: 50,0:14:26.47,0:14:30.68,Main-207-,,0,0,0,,Bu hiç iyi değil! Siz, hemen ormana gidin! Güneydeki ormana!
+Dialogue: 50,0:14:30.68,0:14:33.35,Main-207-,,0,0,0,,Ha?! Kafayı mı yedin?!
+Dialogue: 50,0:14:33.35,0:14:36.32,Main-207-,,0,0,0,,Gidip bu kuşu yakalayın, hemen şimdi!
+Dialogue: 50,0:14:36.32,0:14:37.90,Main-207-,,0,0,0,,Neden?! Niye böyle bir şey yapıyoruz?!
+Dialogue: 50,0:14:37.90,0:14:39.36,Main-207-,,0,0,0,,Ne yapacağız kuşu?
+Dialogue: 50,0:14:39.36,0:14:44.15,Main-207-,,0,0,0,,Dikkatli dinleyin! \NYarın gireceğiniz Fıtlatan Akıntı,
+Dialogue: 50,0:14:44.15,0:14:46.93,Main-207-,,0,0,0,,buranın tam güneyinde.
+Dialogue: 50,0:14:47.23,0:14:49.33,Main-207-,,0,0,0,,Oraya nasıl gideceksiniz?!
+Dialogue: 50,0:14:49.33,0:14:51.68,Main-207-,,0,0,0,,Gemiyle dümdüz gideceğiz?
+Dialogue: 50,0:14:51.68,0:14:53.54,Main-207-,,0,0,0,,Burası Grand Line unutmayın!
+Dialogue: 50,0:14:53.54,0:14:57.20,Main-207-,,0,0,0,,Açık denize çıktınız mı gideceğiniz yönü kestirmenin bir yolu yok!
+Dialogue: 50,0:14:57.20,0:14:58.83,Main-207-,,0,0,0,,Bu doğru!
+Dialogue: 50,0:14:58.83,0:15:01.93,Main-207-,,0,0,0,,Denizin ortasında bir yere\Ngidiyoruz, bir adaya değil;
+Dialogue: 50,0:15:01.95,0:15:03.61,Main-207-,,0,0,0,,bu yüzden yönümüzü\Ngösterecek bir pusulamız yok!
+Dialogue: 50,0:15:03.61,0:15:06.80,Main-207-,,0,0,0,,O zaman gideceğimiz yönü nasıl bileceğiz?
+Dialogue: 50,0:15:06.80,0:15:10.47,Main-207-,,0,0,0,,Bu kuşun davranışını takip edeceksiniz!
+Dialogue: 50,0:15:10.47,0:15:13.59,Main-207-,,0,0,0,,Bazı hayvanların manyetik alanı sezme özelliği vardır,
+Dialogue: 50,0:15:13.59,0:15:16.27,Main-207-,,0,0,0,,bu şekilde gidecekleri yönü bilirler.
+Dialogue: 50,0:15:17.04,0:15:19.96,Main-207-,,0,0,0,,Öyleyse Zoro'nun yön duygusu\N hayvanlardan bile kötü!
+Dialogue: 50,0:15:19.96,0:15:22.23,Main-207-,,0,0,0,,Konuşana bak!
+Dialogue: 50,0:15:22.23,0:15:25.64,Main-207-,,0,0,0,,Güney kuşları bu konuda rakipsizdir!
+Dialogue: 50,0:15:27.37,0:15:30.60,Main-207-,,0,0,0,,Nerede olurlarsa olsunlar,
+Dialogue: 50,0:15:30.60,0:15:34.66,Main-207-,,0,0,0,,vücutları her zaman yönü \Ndoğru bir şekilde gösterecektir.
+Dialogue: 50,0:15:36.37,0:15:39.42,Main-207-,,0,0,0,,Yani bu kuşlardan biri yanınızda olmadan hiçbir yere gidemezsiniz.
+Dialogue: 50,0:15:39.42,0:15:42.93,Main-207-,,0,0,0,,Gökyüzü adasına çıkmak \Niçin de hiçbir şansınız kalmaz!
+Dialogue: 50,0:15:42.93,0:15:44.38,Main-207-,,0,0,0,,– Ne?!\N– Ne?!
+Dialogue: 50,0:15:44.38,0:15:46.72,Main-207-,,0,0,0,,Neden bunu daha önce söylemedin?!
+Dialogue: 50,0:15:47.32,0:15:49.16,Main-207-,,0,0,0,,Sakin olun!
+Dialogue: 50,0:15:49.16,0:15:52.50,Main-207-,,0,0,0,,Vaktimiz yok! Acele edin!\NOyalanmayın!
+Dialogue: 50,0:15:52.50,0:15:55.43,Main-207-,,0,0,0,,Gecenin bir vakti ormana mı gireceğiz?!
+Dialogue: 50,0:15:55.43,0:15:56.73,Main-207-,,0,0,0,,Bunları unutmayın!
+Dialogue: 50,0:15:58.23,0:16:01.83,Main-207-,,0,0,0,,Biz geminizi onarmaya başlayacağız!
+Dialogue: 50,0:16:01.83,0:16:05.69,Main-207-,,0,0,0,,Şimdi düşününce, \Npartilemenin pek zamanı değil aslında!
+Dialogue: 50,0:16:05.69,0:16:07.62,Main-207-,,0,0,0,,Niye bunları daha önce söylemedin?!
+Dialogue: 50,0:16:07.62,0:16:13.24,Main-207-,,0,0,0,,Dinleyin! Şafak sökmeden en az bir tane güney kuşu yakalamış olun!
+Dialogue: 50,0:16:14.17,0:16:15.46,Main-207-,,0,0,0,,Burası zifiri karanlık!
+Dialogue: 50,0:16:15.46,0:16:18.21,Main-207-,,0,0,0,,Beni çekiştirip durma!
+Dialogue: 50,0:16:18.21,0:16:22.21,Main-207-,,0,0,0,,Benim suçum değil! \NEllerim kendi başlarına hareket ediyor!
+Dialogue: 50,0:16:22.21,0:16:27.13,Main-207-,,0,0,0,,Midem çok dolu...\NKuşları kovalayamam bu halimle...
+Dialogue: 50,0:16:27.13,0:16:29.68,Main-207-,,0,0,0,,Nerede bu garip kuşlar?!
+Dialogue: 50,0:16:29.68,0:16:32.47,Main-207-,,0,0,0,,Hemen bir tane yakalayalım da dönüp içmeye devam edelim!
+Dialogue: 50,0:16:32.47,0:16:34.97,Main-207-,,0,0,0,,Nasıl oldu da bir anda bu işin içinde bulduk kendimizi?!
+Dialogue: 50,0:16:34.97,0:16:36.48,Main-207-,,0,0,0,,Çekil!
+Dialogue: 50,0:16:36.48,0:16:39.44,Main-207-,,0,0,0,,Neden gündüz vakti söylemedi bunu bize?!
+Dialogue: 50,0:16:39.44,0:16:41.01,Main-207-,,0,0,0,,Hey, kuşlar nerede?
+Dialogue: 50,0:16:41.01,0:16:44.78,Main-207-,,0,0,0,,Nerede olduklarını bilseydik, \Narıyor olmazdık!
+Dialogue: 50,0:16:44.78,0:16:47.19,Main-207-,,0,0,0,, Onlar hakkında bildiğimiz tek şey garip bir seslerinin olduğu...
+Dialogue: 50,0:16:47.19,0:16:50.19,Main-207-,,0,0,0,,...ve o altın heykeldeki gibi görünüyorlar.
+Dialogue: 50,0:16:50.19,0:16:53.79,Main-207-,,0,0,0,,Böyle garip görünen bir kuş gerçekten var mı?
+Dialogue: 50,0:16:53.79,0:16:58.00,Main-207-,,0,0,0,,"Garip öten" yeterli bir ipucu değil! \NO kuş olduğunu nasıl anlayacağız ki?!
+Dialogue: 50,0:16:58.00,0:17:01.46,Main-207-,,0,0,0,,Ormana girince anlarsınız demişti...
+Dialogue: 50,0:17:04.06,0:17:05.45,Main-207-,,0,0,0,,– Garip bir ses!\N– Garip bir ses!
+Dialogue: 50,0:17:05.45,0:17:06.71,Main-207-,,0,0,0,,İşte bu!
+Dialogue: 50,0:17:06.71,0:17:07.84,Main-207-,,0,0,0,,Pekala!
+Dialogue: 50,0:17:07.84,0:17:10.08,Main-207-,,0,0,0,,Pekala, artık geri dönüş yok!
+Dialogue: 50,0:17:10.08,0:17:13.05,Main-207-,,0,0,0,,Üç ağımız var, \Ngruplara ayrılıp arayalım!
+Dialogue: 50,0:17:13.05,0:17:14.01,Main-207-,,0,0,0,,– Pekala!\N– Pekala!
+Dialogue: 50,0:17:14.01,0:17:18.35,Main-207-,,0,0,0,,Hadi gidip o garip kuşları pataklayalım!
+Dialogue: 50,0:17:18.35,0:17:20.85,Main-207-,,0,0,0,,Yakalayalım demek istedin sanırım!
+Dialogue: 50,0:17:26.53,0:17:27.65,Main-207-,,0,0,10,,Endişelenme!
+Dialogue: 50,0:17:27.65,0:17:29.06,Main-207-,,0,0,10,,Ne ile karşılarşırsak karşılaşalım...
+Dialogue: 50,0:17:29.08,0:17:30.15,Main-207-,,0,0,10,,...Nami-san'ı koruyacağım.
+Dialogue: 50,0:17:30.15,0:17:31.23,Main-207-,,0,0,0,,Peki ben...?
+Dialogue: 50,0:17:31.23,0:17:34.07,Main-207-,,0,0,0,,Sen umrumda değilsin! Biraz kendine güvenin olsun!
+Dialogue: 50,0:17:34.07,0:17:37.70,Main-207-,,0,0,0,,Neyse. Şu kuşu yakalayalım da \Normandan çıkalım!
+Dialogue: 50,0:17:37.70,0:17:42.50,Main-207-,,0,0,0,,Az önce duyduğumuz sese odaklanalım.
+Dialogue: 50,0:17:44.04,0:17:45.59,Main-207-,,0,0,0,,Hey, işte orada!
+Dialogue: 50,0:17:46.63,0:17:48.13,Main-207-,,0,0,0,,Buraya kuşçuk!
+Dialogue: 50,0:17:48.13,0:17:48.88,Main-207-,,0,0,0,,Seni...!
+Dialogue: 50,0:17:51.01,0:17:53.01,Main-207-,,0,0,0,,Ben kuşa mı benziyorum...?!
+Dialogue: 50,0:17:53.01,0:17:56.26,Main-207-,,0,0,0,,Oh, Nami! Üstündeki ne kadar havalıymış! Nereden aldın?
+Dialogue: 50,0:17:56.26,0:17:57.85,Main-207-,,0,0,0,,Ne?
+Dialogue: 50,0:18:00.81,0:18:02.64,Main-207-,,0,0,0,,Örümcek!
+Dialogue: 50,0:18:02.64,0:18:05.90,Main-207-,,0,0,0,,Ha? Alt tarafı örümcek. Gel bakalım, yazık sana.
+Dialogue: 50,0:18:05.90,0:18:09.71,Main-207-,,0,0,0,,Örümcekler iğrenç, seni aptal! \NKurtul ondan!
+Dialogue: 50,0:18:09.71,0:18:13.36,Main-207-,,0,0,0,,Ondan uzak dur, Usopp!\NZehirli olabilir!
+Dialogue: 50,0:18:13.36,0:18:14.99,Main-207-,,0,0,0,,Ağaçlardan düşüyorlar!
+Dialogue: 50,0:18:14.99,0:18:17.41,Main-207-,,0,0,0,,Bu çok iğrenç!
+Dialogue: 50,0:18:17.41,0:18:19.90,Main-207-,,0,0,0,,Muhtemelen bir tarantula türü!
+Dialogue: 50,0:18:19.90,0:18:23.78,Main-207-,,0,0,0,,Zararsızlar! \NOnlara zarar vermezsek ısırmazlar!
+Dialogue: 50,0:18:23.78,0:18:25.88,Main-207-,,0,0,0,,Çocukken örümceklerle oynardım ben!
+Dialogue: 50,0:18:25.88,0:18:30.15,Main-207-,,0,0,0,,Umrumda değil! O ürkünç yaratıkları benden uzak tut!
+Dialogue: 50,0:18:30.15,0:18:33.84,Main-207-,,0,0,0,,Aynen, ben de onlardan nefret ediyorum! Çabuk kurtul onlardan!
+Dialogue: 50,0:18:33.84,0:18:38.51,Main-207-,,0,0,0,,Öyle mi? O güveler ve kırkayaklar sizi rahatsız etmiyor gibi duruyor oysa?
+Dialogue: 50,0:18:47.56,0:18:50.15,Main-207-,,0,0,0,,Onlardan da nefret ediyorum!
+Dialogue: 50,0:18:50.15,0:18:52.49,Main-207-,,0,0,0,,Ahh! Beni geride bırakmayın!
+Dialogue: 50,0:18:54.71,0:18:56.05,Main-207-,,0,0,10,,Çığlıklar duyuyorum...
+Dialogue: 50,0:18:56.05,0:18:57.24,Main-207-,,0,0,10,,Boşve onları.
+Dialogue: 50,0:19:01.62,0:19:04.83,Main-207-,,0,0,0,,Kırkayak, ha?\NKocaman...
+Dialogue: 50,0:19:04.83,0:19:08.34,Main-207-,,0,0,0,,Yazık, öldürmene gerek yoktu...
+Dialogue: 50,0:19:08.34,0:19:11.71,Main-207-,,0,0,0,,Bana saldırırsa böyle olur.
+Dialogue: 50,0:19:11.71,0:19:12.98,Main-207-,,0,0,0,,Ama...
+Dialogue: 50,0:19:12.98,0:19:14.19,Main-207-,,0,0,0,,Ne?!
+Dialogue: 50,0:19:14.19,0:19:16.24,Main-207-,,0,0,0,,Zaten o yönden geldik.
+Dialogue: 50,0:19:19.18,0:19:21.52,Main-207-,,0,0,0,,Kuş sesi... Bu taraftan.
+Dialogue: 50,0:19:22.73,0:19:24.83,Main-207-,,0,0,0,,Bataklığa dikkat et.
+Dialogue: 50,0:19:26.10,0:19:29.11,Main-207-,,0,0,0,,Hey! Beni bekle–
+Dialogue: 50,0:19:32.87,0:19:34.40,Main-207-,,0,0,0,,Yakaladım!
+Dialogue: 50,0:19:34.40,0:19:37.11,Main-207-,,0,0,0,,Baksana, Chopper! Bir atlas böceği!
+Dialogue: 50,0:19:37.11,0:19:37.91,Main-207-,,0,0,0,,Atlas mı...?
+Dialogue: 50,0:19:37.91,0:19:40.24,Main-207-,,0,0,0,,Evet! Atlas ve Herkül,
+Dialogue: 50,0:19:40.24,0:19:42.87,Main-207-,,0,0,0,,dünyanın en havalı böcekleridir!
+Dialogue: 50,0:19:42.87,0:19:45.03,Main-207-,,0,0,0,,Gerçekten mi? Bu mu?
+Dialogue: 50,0:19:45.03,0:19:47.92,Main-207-,,0,0,0,,Onları hiç duymadın mı?!\NYakalaması çok zordur!
+Dialogue: 50,0:19:47.92,0:19:50.24,Main-207-,,0,0,0,,Hangisi daha iyi, \NOne Piece mi onlar mı?!
+Dialogue: 50,0:19:51.50,0:19:52.71,Main-207-,,0,0,0,,Zor soru!
+Dialogue: 50,0:19:52.71,0:19:55.00,Main-207-,,0,0,0,,Luffy! Burada da bir şey var!
+Dialogue: 50,0:19:55.00,0:19:57.38,Main-207-,,0,0,0,,Vaaay, bu Miyama geyik böceği!
+Dialogue: 50,0:19:57.38,0:19:59.48,Main-207-,,0,0,0,,Yakala!
+Dialogue: 50,0:20:00.39,0:20:01.69,Main-207-,,0,0,0,,Uçtu gitti!
+Dialogue: 50,0:20:01.69,0:20:02.85,Main-207-,,0,0,0,,Gel buraya...!
+Dialogue: 50,0:20:05.48,0:20:07.94,Main-207-,,0,0,0,,Peşinden git! Kaçmasına izin verme!
+Dialogue: 50,0:20:09.02,0:20:11.86,Main-207-,,0,0,0,,Arı kovanı! Kaç!
+Dialogue: 50,0:20:24.87,0:20:26.83,Main-207-,,0,0,0,,Bu ormanın olayı nedir?!
+Dialogue: 50,0:20:27.80,0:20:29.50,Main-207-,,0,0,0,,Luffy, bak yukarıda!
+Dialogue: 50,0:20:29.50,0:20:30.50,Main-207-,,0,0,0,,Bu o kuş!
+Dialogue: 50,0:20:30.50,0:20:32.44,Main-207-,,0,0,0,,Arı kovanlarını o aşağı düşürdü!
+Dialogue: 50,0:20:34.25,0:20:34.75,Main-207-,,0,0,0,,Ha?!
+Dialogue: 50,0:20:34.75,0:20:36.84,Main-207-,,0,0,0,,N-n-ne? Bir şey mi dedi?
+Dialogue: 50,0:20:38.45,0:20:42.14,Main-207-,,0,0,0,,"Bu ormana gireni öldürürüm!" dedi!
+Dialogue: 50,0:20:53.40,0:20:57.37,Main-207-,,0,0,0,,Bak bak gelene! Bizi kışkırtma!
+Dialogue: 50,0:20:57.37,0:21:02.37,Main-207-,,0,0,0,,Gecenin bir vakti gelip altın istemek çok kaba, çocuklar.
+Dialogue: 50,0:21:02.37,0:21:05.87,Main-207-,,0,0,0,,İkileyin! İşimiz gücümüz var!
+Dialogue: 50,0:21:07.58,0:21:09.32,Main-207-,,0,0,0,,Korumalar, ha?
+Dialogue: 50,0:21:09.32,0:21:12.83,Main-207-,,0,0,0,,Şimdi düşününce barda...
+Dialogue: 50,0:21:12.83,0:21:16.78,Main-207-,,0,0,0,,Mont Blanc Cricket ve ailesinin üzücü hikayesini duymuştum.
+Dialogue: 50,0:21:16.78,0:21:18.30,Main-207-,,0,0,0,,Yüreğimi yakan bir hikayeydi.
+Dialogue: 50,0:21:18.30,0:21:24.18,Main-207-,,0,0,0,,{\q2}Bir başkasının uğraşıp bulduğu hazineyi \Nalmanın tadı da bir başka oluyor!
+Dialogue: 50,0:21:24.18,0:21:27.84,Main-207-,,0,0,0,,İnsanlar bana ne diyor biliyor musun?
+Dialogue: 50,0:21:27.84,0:21:30.19,Main-207-,,0,0,0,,Sırtlan!
+Dialogue: 0,0:01:49.76,0:01:54.68,Author,,0,0,0,,{\fad(725,1025)\fs29} Türkçeleştirme & Çevirmen  {\fs}\N{\c&HFFCB00&\b1}onepacetr.net{\b0\c&HFFFFFF&} - {\c&H01BAFF&}{\b1}Mantisentil{\b0}{\c&HFFFFFF&}\N{\fs29}thx to onepace.net
+Dialogue: 0,0:10:17.24,0:10:27.24,Author,,0,0,0,,{\fad(500,500)\fs29} Türkçeleştirme & Çevirmen  {\fs}\N{\c&HFFCB00&\b1}onepacetr.net{\b0\c&HFFFFFF&} - {\c&H01BAFF&}{\b1}Mantisentil{\b0}{\c&HFFFFFF&}\N{\fs29}thx to onepace.net
+Dialogue: 0,0:21:30.20,0:21:37.30,Author,,0,0,0,,{\fad(0,0)\fs29} Türkçeleştirme & Çevirmen  {\fs}\N{\c&HFFCB00&\b1}onepacetr.net{\b0\c&HFFFFFF&} - {\c&H01BAFF&}{\b1}Mantisentil{\b0}{\c&HFFFFFF&}\N{\fs29}thx to onepace.net
+Dialogue: 1,0:01:49.76,0:01:54.68,Title-207-,,0,0,0,,{\fad(725,1025)}Hadi Yiyelim
+Dialogue: 2,0:17:24.77,0:17:30.15,Captions-207-,,0,0,0,,{\fad(524,0)\pos(720,600)}1. Takım\NSanji - Usopp - Nami
+Dialogue: 2,0:18:54.11,0:18:57.24,Captions-207-,,0,0,0,,{\fad(482,0)\pos(720,600)}2. Takım\NZoro - Robin
+Dialogue: 2,0:19:35.70,0:19:40.28,Captions-207-,,0,0,0,,{\fad(475,476)\pos(720,570)}3. Takım\NLuffy - Chopper
+Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Video Editing
+Dialogue: 0,0:00:05.28,0:00:07.78,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Sewil
+Dialogue: 0,0:00:07.78,0:00:10.28,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Graphics
+Dialogue: 0,0:00:07.78,0:00:10.28,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Datenshi
+Dialogue: 0,0:00:10.29,0:00:12.79,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Quality Control
+Dialogue: 0,0:00:10.29,0:00:12.79,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Galaxy 9000\NPepperjack\NZenef\NPhosCity
+Dialogue: 0,0:00:12.79,0:00:15.29,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Karaoke
+Dialogue: 0,0:00:12.79,0:00:15.29,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}KaitouYahiko
+Dialogue: 0,0:00:15.29,0:00:17.79,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Soundtracking
+Dialogue: 0,0:00:15.29,0:00:17.79,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Halee
+Dialogue: 0,0:00:17.79,0:00:20.29,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Timing
+Dialogue: 0,0:00:17.79,0:00:20.29,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}Gab\NGalaxy 9000
+Dialogue: 0,0:00:17.79,0:00:20.29,Credits-207-,,0,0,0,,{\pos(44,259)\fscx120\fscy120\bord3.3}Typesetting
+Dialogue: 0,0:00:17.79,0:00:20.29,Credits-207-,,0,0,0,,{\pos(89,320)\fscx145\fscy145\bord3.5}Gab
+Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Subtitle Editing
+Dialogue: 0,0:00:20.30,0:00:22.92,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}AphantasticRabbit\Npanda :>\NPoppy\NWestfal
+Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(44,59)\fscx120\fscy120\bord3.3}Translation
+Dialogue: 0,0:00:22.92,0:00:25.42,Credits-207-,,0,0,0,,{\pos(89,120)\fscx145\fscy145\bord3.5}arch1t3cht\NFunimation\NGaijin\NPamkinPinguin\Nrangicus
+Dialogue: 0,0:00:06.90,0:00:10.48,Roger Monologue,,0,0,0,,Bir dünya... Evet!
+Dialogue: 0,0:00:10.48,0:00:16.53,Roger Monologue,,0,0,0,,Senin gibi özgürlüğü arayan biri için koca bir dünya tam gözlerinin önünde.
+Dialogue: 0,0:00:16.53,0:00:20.41,Roger Monologue,,0,0,0,,Sonu olmayan rüyaların peşinden gitmek istiyorsan,
+Dialogue: 0,0:00:20.41,0:00:25.17,Roger Monologue,,0,0,0,,inandıklarının bayrağını taşıyarak onların ötesine geç!

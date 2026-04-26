@@ -1,4 +1,5 @@
 const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
+const express = require("express");
 const fs = require("fs");
 const path = require("path");
 
@@ -28,7 +29,7 @@ builder.defineSubtitlesHandler(({ type, id, extra }) => {
 
   const entry = mapping[videoID];
   if (!entry) {
-    console.log(`  Bulunamadı: ${videoID}`);
+    console.log(`Bulunamadı: ${videoID}`);
     return Promise.resolve({ subtitles: [] });
   }
 
@@ -39,6 +40,7 @@ builder.defineSubtitlesHandler(({ type, id, extra }) => {
       id: `onepace-tr-srt-${videoID}`,
       url: `${SUBS_BASE_URL}/${entry.srt}`,
       lang: "tur",
+      name: "Türkçe",
     });
   }
 
@@ -47,16 +49,29 @@ builder.defineSubtitlesHandler(({ type, id, extra }) => {
       id: `onepace-tr-ass-${videoID}`,
       url: `${SUBS_BASE_URL}/${entry.ass}`,
       lang: "tur",
-      title: "Türkçe (Styled)",
+      name: "Türkçe (Styled)",
     });
   }
 
-  console.log(`  ${videoID} → ${subtitles.length} altyazı`);
+  console.log(`${videoID} → ${subtitles.length} altyazı`);
   return Promise.resolve({ subtitles });
 });
 
-const PORT = process.env.PORT || 7000;
+// Static dosya sunucusu ayrı portta
+const staticApp = express();
+staticApp.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  next();
+});
+staticApp.use("/subs", express.static(path.join(__dirname, "subs"), {
+  setHeaders: (res, filePath) => {
+    if (filePath.endsWith(".ass")) res.setHeader("Content-Type", "text/x-ssa; charset=utf-8");
+    if (filePath.endsWith(".srt")) res.setHeader("Content-Type", "text/plain; charset=utf-8");
+  }
+}));
+staticApp.listen(7001, () => console.log("Static server: localhost:7001"));
 
+const PORT = process.env.PORT || 7000;
 serveHTTP(builder.getInterface(), { port: PORT }).then(() => {
   console.log(`One Pace TR Addon çalışıyor!`);
   console.log(`Manifest: http://localhost:${PORT}/manifest.json`);

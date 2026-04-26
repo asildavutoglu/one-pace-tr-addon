@@ -1,0 +1,618 @@
+{
+  "CSA_1": {
+    "ass": "CSA_1.ass",
+    "srt": "CSA_1.srt"
+  },
+  "CSA_2": {
+    "ass": "CSA_2.ass",
+    "srt": "CSA_2.srt"
+  },
+  "RO_1": {
+    "ass": "RO_1.ass",
+    "srt": "RO_1.srt"
+  },
+  "RO_2": {
+    "ass": "RO_2.ass",
+    "srt": "RO_2.srt"
+  },
+  "RO_3": {
+    "ass": "RO_3.ass",
+    "srt": "RO_3.srt"
+  },
+  "RO_4": {
+    "ass": "RO_4.ass",
+    "srt": "RO_4.srt"
+  },
+  "OR_1": {
+    "ass": "OR_1.ass",
+    "srt": "OR_1.srt"
+  },
+  "OR_2": {
+    "ass": "OR_2.ass",
+    "srt": "OR_2.srt"
+  },
+  "OR_3": {
+    "ass": "OR_3.ass",
+    "srt": "OR_3.srt"
+  },
+  "SY_1": {
+    "ass": "SY_1.ass",
+    "srt": "SY_1.srt"
+  },
+  "SY_2": {
+    "ass": "SY_2.ass",
+    "srt": "SY_2.srt"
+  },
+  "SY_3": {
+    "ass": "SY_3.ass",
+    "srt": "SY_3.srt"
+  },
+  "SY_4": {
+    "ass": "SY_4.ass",
+    "srt": "SY_4.srt"
+  },
+  "SY_5": {
+    "ass": "SY_5.ass",
+    "srt": "SY_5.srt"
+  },
+  "SY_6": {
+    "ass": "SY_6.ass",
+    "srt": "SY_6.srt"
+  },
+  "SY_7": {
+    "ass": "SY_7.ass",
+    "srt": "SY_7.srt"
+  },
+  "GA_1": {
+    "ass": "GA_1.ass",
+    "srt": "GA_1.srt"
+  },
+  "BA_1": {
+    "ass": "BA_1.ass",
+    "srt": "BA_1.srt"
+  },
+  "BA_2": {
+    "ass": "BA_2.ass",
+    "srt": "BA_2.srt"
+  },
+  "BA_3": {
+    "ass": "BA_3.ass",
+    "srt": "BA_3.srt"
+  },
+  "BA_4": {
+    "ass": "BA_4.ass",
+    "srt": "BA_4.srt"
+  },
+  "BA_5": {
+    "ass": "BA_5.ass",
+    "srt": "BA_5.srt"
+  },
+  "BA_6": {
+    "ass": "BA_6.ass",
+    "srt": "BA_6.srt"
+  },
+  "BA_7": {
+    "ass": "BA_7.ass",
+    "srt": "BA_7.srt"
+  },
+  "BA_8": {
+    "ass": "BA_8.ass",
+    "srt": "BA_8.srt"
+  },
+  "AR_1": {
+    "ass": "AR_1.ass",
+    "srt": "AR_1.srt"
+  },
+  "AR_2": {
+    "ass": "AR_2.ass",
+    "srt": "AR_2.srt"
+  },
+  "AR_3": {
+    "ass": "AR_3.ass",
+    "srt": "AR_3.srt"
+  },
+  "AR_4": {
+    "ass": "AR_4.ass",
+    "srt": "AR_4.srt"
+  },
+  "AR_5": {
+    "ass": "AR_5.ass",
+    "srt": "AR_5.srt"
+  },
+  "AR_6": {
+    "ass": "AR_6.ass",
+    "srt": "AR_6.srt"
+  },
+  "AR_7": {
+    "ass": "AR_7.ass",
+    "srt": "AR_7.srt"
+  },
+  "RE_1": {
+    "ass": "RE_1.ass",
+    "srt": "RE_1.srt"
+  },
+  "RE_2": {
+    "ass": "RE_2.ass",
+    "srt": "RE_2.srt"
+  },
+  "LG_1": {
+    "ass": "LG_1.ass",
+    "srt": "LG_1.srt"
+  },
+  "LG_2": {
+    "ass": "LG_2.ass",
+    "srt": "LG_2.srt"
+  },
+  "LG_3": {
+    "ass": "LG_3.ass",
+    "srt": "LG_3.srt"
+  },
+  "LG_4": {
+    "ass": "LG_4.ass",
+    "srt": "LG_4.srt"
+  },
+  "LG_5": {
+    "ass": "LG_5.ass",
+    "srt": "LG_5.srt"
+  },
+  "DR_1": {
+    "ass": "DR_1.ass",
+    "srt": "DR_1.srt"
+  },
+  "DR_2": {
+    "ass": "DR_2.ass",
+    "srt": "DR_2.srt"
+  },
+  "DR_3": {
+    "ass": "DR_3.ass",
+    "srt": "DR_3.srt"
+  },
+  "DR_4": {
+    "ass": "DR_4.ass",
+    "srt": "DR_4.srt"
+  },
+  "DR_5": {
+    "ass": "DR_5.ass",
+    "srt": "DR_5.srt"
+  },
+  "DR_6": {
+    "ass": "DR_6.ass",
+    "srt": "DR_6.srt"
+  },
+  "DR_7": {
+    "ass": "DR_7.ass",
+    "srt": "DR_7.srt"
+  },
+  "DR_8": {
+    "ass": "DR_8.ass",
+    "srt": "DR_8.srt"
+  },
+  "AL_1": {
+    "ass": "AL_1.ass",
+    "srt": "AL_1.srt"
+  },
+  "AL_2": {
+    "ass": "AL_2.ass",
+    "srt": "AL_2.srt"
+  },
+  "AL_3": {
+    "ass": "AL_3.ass",
+    "srt": "AL_3.srt"
+  },
+  "AL_4": {
+    "ass": "AL_4.ass",
+    "srt": "AL_4.srt"
+  },
+  "AL_10": {
+    "ass": "AL_10.ass",
+    "srt": "AL_10.srt"
+  },
+  "AL_11": {
+    "ass": "AL_11.ass",
+    "srt": "AL_11.srt"
+  },
+  "AL_12": {
+    "ass": "AL_12.ass",
+    "srt": "AL_12.srt"
+  },
+  "AL_13": {
+    "ass": "AL_13.ass",
+    "srt": "AL_13.srt"
+  },
+  "AL_14": {
+    "ass": "AL_14.ass",
+    "srt": "AL_14.srt"
+  },
+  "AL_15": {
+    "ass": "AL_15.ass",
+    "srt": "AL_15.srt"
+  },
+  "AL_16": {
+    "ass": "AL_16.ass",
+    "srt": "AL_16.srt"
+  },
+  "AL_17": {
+    "ass": "AL_17.ass",
+    "srt": "AL_17.srt"
+  },
+  "AL_18": {
+    "ass": "AL_18.ass",
+    "srt": "AL_18.srt"
+  },
+  "AL_19": {
+    "ass": "AL_19.ass",
+    "srt": "AL_19.srt"
+  },
+  "AL_20": {
+    "ass": "AL_20.ass",
+    "srt": "AL_20.srt"
+  },
+  "AL_21": {
+    "ass": "AL_21.ass",
+    "srt": "AL_21.srt"
+  },
+  "JA_1": {
+    "ass": "JA_1.ass",
+    "srt": "JA_1.srt"
+  },
+  "JA_2": {
+    "ass": "JA_2.ass",
+    "srt": "JA_2.srt"
+  },
+  "JA_3": {
+    "ass": "JA_3.ass",
+    "srt": "JA_3.srt"
+  },
+  "JA_4": {
+    "ass": "JA_4.ass",
+    "srt": "JA_4.srt"
+  },
+  "JA_5": {
+    "ass": "JA_5.ass",
+    "srt": "JA_5.srt"
+  },
+  "JA_6": {
+    "ass": "JA_6.ass",
+    "srt": "JA_6.srt"
+  },
+  "JA_7": {
+    "ass": "JA_7.ass",
+    "srt": "JA_7.srt"
+  },
+  "JA_8": {
+    "ass": "JA_8.ass",
+    "srt": "JA_8.srt"
+  },
+  "SK_1": {
+    "ass": "SK_1.ass",
+    "srt": "SK_1.srt"
+  },
+  "SK_2": {
+    "ass": "SK_2.ass",
+    "srt": "SK_2.srt"
+  },
+  "SK_3": {
+    "ass": "SK_3.ass",
+    "srt": "SK_3.srt"
+  },
+  "SK_4": {
+    "ass": "SK_4.ass",
+    "srt": "SK_4.srt"
+  },
+  "SK_5": {
+    "ass": "SK_5.ass",
+    "srt": "SK_5.srt"
+  },
+  "SK_6": {
+    "ass": "SK_6.ass",
+    "srt": "SK_6.srt"
+  },
+  "SK_7": {
+    "ass": "SK_7.ass",
+    "srt": "SK_7.srt"
+  },
+  "SK_8": {
+    "ass": "SK_8.ass",
+    "srt": "SK_8.srt"
+  },
+  "SK_9": {
+    "ass": "SK_9.ass",
+    "srt": "SK_9.srt"
+  },
+  "SK_10": {
+    "ass": "SK_10.ass",
+    "srt": "SK_10.srt"
+  },
+  "SK_11": {
+    "ass": "SK_11.ass",
+    "srt": "SK_11.srt"
+  },
+  "SK_12": {
+    "ass": "SK_12.ass",
+    "srt": "SK_12.srt"
+  },
+  "SK_13": {
+    "ass": "SK_13.ass",
+    "srt": "SK_13.srt"
+  },
+  "SK_14": {
+    "ass": "SK_14.ass",
+    "srt": "SK_14.srt"
+  },
+  "SK_15": {
+    "ass": "SK_15.ass",
+    "srt": "SK_15.srt"
+  },
+  "SK_16": {
+    "ass": "SK_16.ass",
+    "srt": "SK_16.srt"
+  },
+  "SK_17": {
+    "ass": "SK_17.ass",
+    "srt": "SK_17.srt"
+  },
+  "SK_18": {
+    "ass": "SK_18.ass",
+    "srt": "SK_18.srt"
+  },
+  "SK_19": {
+    "ass": "SK_19.ass",
+    "srt": "SK_19.srt"
+  },
+  "SK_20": {
+    "ass": "SK_20.ass",
+    "srt": "SK_20.srt"
+  },
+  "SK_21": {
+    "ass": "SK_21.ass",
+    "srt": "SK_21.srt"
+  },
+  "SK_22": {
+    "ass": "SK_22.ass",
+    "srt": "SK_22.srt"
+  },
+  "SK_23": {
+    "ass": "SK_23.ass",
+    "srt": "SK_23.srt"
+  },
+  "SK_24": {
+    "ass": "SK_24.ass",
+    "srt": "SK_24.srt"
+  },
+  "SK_25": {
+    "ass": "SK_25.ass",
+    "srt": "SK_25.srt"
+  },
+  "EL_1": {
+    "ass": "EL_1.ass",
+    "srt": "EL_1.srt"
+  },
+  "WA_1": {
+    "ass": "WA_1.ass",
+    "srt": "WA_1.srt"
+  },
+  "WA_2": {
+    "ass": "WA_2.ass",
+    "srt": "WA_2.srt"
+  },
+  "WA_3": {
+    "ass": "WA_3.ass",
+    "srt": "WA_3.srt"
+  },
+  "WA_4": {
+    "ass": "WA_4.ass",
+    "srt": "WA_4.srt"
+  },
+  "WA_5": {
+    "ass": "WA_5.ass",
+    "srt": "WA_5.srt"
+  },
+  "WA_6": {
+    "ass": "WA_6.ass",
+    "srt": "WA_6.srt"
+  },
+  "WA_7": {
+    "ass": "WA_7.ass",
+    "srt": "WA_7.srt"
+  },
+  "WA_8": {
+    "ass": "WA_8.ass",
+    "srt": "WA_8.srt"
+  },
+  "WA_9": {
+    "ass": "WA_9.ass",
+    "srt": "WA_9.srt"
+  },
+  "WA_10": {
+    "ass": "WA_10.ass",
+    "srt": "WA_10.srt"
+  },
+  "WA_11": {
+    "ass": "WA_11.ass",
+    "srt": "WA_11.srt"
+  },
+  "WA_12": {
+    "ass": "WA_12.ass",
+    "srt": "WA_12.srt"
+  },
+  "WA_13": {
+    "ass": "WA_13.ass",
+    "srt": "WA_13.srt"
+  },
+  "WA_14": {
+    "ass": "WA_14.ass",
+    "srt": "WA_14.srt"
+  },
+  "WA_15": {
+    "ass": "WA_15.ass",
+    "srt": "WA_15.srt"
+  },
+  "WA_16": {
+    "ass": "WA_16.ass",
+    "srt": "WA_16.srt"
+  },
+  "WA_17": {
+    "ass": "WA_17.ass",
+    "srt": "WA_17.srt"
+  },
+  "WA_18": {
+    "ass": "WA_18.ass",
+    "srt": "WA_18.srt"
+  },
+  "WA_19": {
+    "ass": "WA_19.ass",
+    "srt": "WA_19.srt"
+  },
+  "WA_20": {
+    "ass": "WA_20.ass",
+    "srt": "WA_20.srt"
+  },
+  "WA_21": {
+    "ass": "WA_21.ass",
+    "srt": "WA_21.srt"
+  },
+  "WA_22": {
+    "ass": "WA_22.ass",
+    "srt": "WA_22.srt"
+  },
+  "WA_23": {
+    "ass": "WA_23.ass",
+    "srt": "WA_23.srt"
+  },
+  "WA_24": {
+    "ass": "WA_24.ass",
+    "srt": "WA_24.srt"
+  },
+  "WA_25": {
+    "ass": "WA_25.ass",
+    "srt": "WA_25.srt"
+  },
+  "WA_26": {
+    "ass": "WA_26.ass",
+    "srt": "WA_26.srt"
+  },
+  "WA_27": {
+    "ass": "WA_27.ass",
+    "srt": "WA_27.srt"
+  },
+  "WA_28": {
+    "ass": "WA_28.ass",
+    "srt": "WA_28.srt"
+  },
+  "WA_29": {
+    "ass": "WA_29.ass",
+    "srt": "WA_29.srt"
+  },
+  "WA_30": {
+    "ass": "WA_30.ass",
+    "srt": "WA_30.srt"
+  },
+  "WA_31": {
+    "ass": "WA_31.ass",
+    "srt": "WA_31.srt"
+  },
+  "WA_32": {
+    "ass": "WA_32.ass",
+    "srt": "WA_32.srt"
+  },
+  "WA_33": {
+    "ass": "WA_33.ass",
+    "srt": "WA_33.srt"
+  },
+  "WA_34": {
+    "ass": "WA_34.ass",
+    "srt": "WA_34.srt"
+  },
+  "WA_35": {
+    "ass": "WA_35.ass",
+    "srt": "WA_35.srt"
+  },
+  "WA_36": {
+    "ass": "WA_36.ass",
+    "srt": "WA_36.srt"
+  },
+  "WA_37": {
+    "ass": "WA_37.ass",
+    "srt": "WA_37.srt"
+  },
+  "WA_38": {
+    "ass": "WA_38.ass",
+    "srt": "WA_38.srt"
+  },
+  "WA_39": {
+    "ass": "WA_39.ass",
+    "srt": "WA_39.srt"
+  },
+  "WA_40": {
+    "ass": "WA_40.ass",
+    "srt": "WA_40.srt"
+  },
+  "WA_41": {
+    "ass": "WA_41.ass",
+    "srt": "WA_41.srt"
+  },
+  "WA_42": {
+    "ass": "WA_42.ass",
+    "srt": "WA_42.srt"
+  },
+  "WA_43": {
+    "ass": "WA_43.ass",
+    "srt": "WA_43.srt"
+  },
+  "WA_44": {
+    "ass": "WA_44.ass",
+    "srt": "WA_44.srt"
+  },
+  "WA_45": {
+    "ass": "WA_45.ass",
+    "srt": "WA_45.srt"
+  },
+  "WA_46": {
+    "ass": "WA_46.ass",
+    "srt": "WA_46.srt"
+  },
+  "WA_47": {
+    "ass": "WA_47.ass",
+    "srt": "WA_47.srt"
+  },
+  "WA_48": {
+    "ass": "WA_48.ass",
+    "srt": "WA_48.srt"
+  },
+  "WA_49": {
+    "ass": "WA_49.ass",
+    "srt": "WA_49.srt"
+  },
+  "WA_50": {
+    "ass": "WA_50.ass",
+    "srt": "WA_50.srt"
+  },
+  "WA_51": {
+    "ass": "WA_51.ass",
+    "srt": "WA_51.srt"
+  },
+  "WA_52": {
+    "ass": "WA_52.ass",
+    "srt": "WA_52.srt"
+  },
+  "WA_53": {
+    "ass": "WA_53.ass",
+    "srt": "WA_53.srt"
+  },
+  "WA_54": {
+    "ass": "WA_54.ass",
+    "srt": "WA_54.srt"
+  },
+  "WA_55": {
+    "ass": "WA_55.ass",
+    "srt": "WA_55.srt"
+  },
+  "WA_56": {
+    "ass": "WA_56.ass",
+    "srt": "WA_56.srt"
+  },
+  "WA_57": {
+    "ass": "WA_57.ass",
+    "srt": "WA_57.srt"
+  }
+}

@@ -1,3 +1,10 @@
+> [!WARNING]
+> ### ⚠️ BU PROJE TAŞINDI / DEPRECATED
+> Bu eklenti artık tek başına güncellenmemektedir ve **[streamio_turkce_addon](https://github.com/asildavutoglu/streamio_turkce_addon)** projesine dahil edilmiştir.
+> 
+> Güncel sürüme, geliştirmelere ve destek taleplerine ulaşmak için lütfen yeni depoyu kullanın:
+> 👉 **[Yeni Projeye Git: streamio_turkce_addon](https://github.com/asildavutoglu/streamio_turkce_addon)**
+
 # One Pace Türkçe Altyazı - Stremio Addon
 
 One Pace bölümleri için Türkçe altyazı sunan Stremio addon'u.
